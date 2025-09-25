@@ -2,7 +2,7 @@
 
 **Purpose of Register:** Nothing is a given any longer in the Human Condition. The Human Condition has become too complex to take any point or determination as a given. A point or contention is to be irreducable and singular. Every point is a sovereign and must be triangulated by authorities, triangulated by authoritative and defensible evidence and signed-off according to governance with an alphanumeric code and symbolic suffix. Each point will be itemised with an intexation and the alphanumeric code and symbolic suffix must be married to the instantiated index at every invocation. From that base or substrate, sound complexity may be generated and prospectively audited on-sight. All points in this register are to be triangulated and signed-off before they may be used as a building block in the repository process.
 
-0. Define: Definition.
+0. Define: definition.
 1. Define: human.
 2. Define: biology.
 3. Define: repository.
