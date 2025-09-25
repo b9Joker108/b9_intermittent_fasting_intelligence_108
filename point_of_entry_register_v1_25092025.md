@@ -1,0 +1,57 @@
+# Point of Entry Entry Register
+
+**Purpose of Register:** Nothing is a given any longer in the Human Condition. The Human Condition has become too complex to take any point or determination as a given. A point or contention is to be irreducable and singular. Every point is a sovereign and must be triangulated by authorities, triangulated by authoritative and defensible evidence and signed-off according to governance with an alphanumeric code and symbolic suffix. Each point will be itemised with an intexation and the alphanumeric code and symbolic suffix must be married to the instantiated index at every invocation. From that base or substrate, sound complexity may be generated and prospectively audited on-sight. All points in this register are to be triangulated and signed-off before they may be used as a building block in the repository process.
+
+0. Define: Definition.
+1. Define: human.
+2. Define: biology.
+3. Define: repository.
+4. Define: system.
+5. Define: action.
+6. Define: ontology.
+7. Define: schema.
+8. Define: taxonony.
+9. Define: specification.
+10. Define: concern.
+11. Define: metabolism.
+12. This repository concerns the biological system of the human.
+13. This repository concerns the metabolic system of the human.
+14. Define: fasting.
+15. Define: Intermittent.
+16. Define: Intermittent fasting.
+17. This repository concerns fasting.
+18. This repository concerns intermittent fasting.
+19. Define: defensible.
+20. Define: attested.
+21. Define: no.
+22. Define: evidence.
+23. Define: breakfast.
+24. Define: most.
+25. Define: important.
+26. Define: meal.
+27. Define: day.
+28. Define: term.
+29. Define: macronutrients.
+30. There is no defensible and attested evidence that breakfast is the most important meal of the day.
+31. Define: discourse.
+32. Macronurients is an attested term in the discourse.
+33. Define: network.
+34. Define: process.
+35. Define: flow.
+36. Define: process flow.
+37. Define: cascade.
+38. Define: path.
+39. Define: way.
+40. Define: pathway.
+41. Define: metabolic pathway.
+3. For the human, there are three (3) macronutrients.
+4. Define: precedence.
+5. Define: order.
+7. The three (3) macronutrients have an order of precedence.
+8. Two (2) macronutrients are essential.
+9. Define: technical term.
+10. Define: term-of-art.
+11. Define: essential
+12. 'Essential' is a technical term and term-of-art
+
+
