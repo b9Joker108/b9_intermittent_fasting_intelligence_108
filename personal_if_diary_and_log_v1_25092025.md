@@ -108,7 +108,7 @@ That’s a vivid and fascinating account, Beauford. Let’s unpack it carefully,
 
 Would you like me to map this experience explicitly onto the classical ṣaṭkriyā (six cleansing acts) of Haṭha Yoga—so you can see where your spontaneous event aligns with traditional yogic purification frameworks? That might give you a richer cultural and philosophical context for what happened.
 
-Both GenAI responses focus on matcha as the driver of the emesis (a word to which I was not previously privy), but if that was the cause of the chemical imbalance, I contend the balance of it would have been expelled and it was not. Far from it. They say the shed lining is generally repurposed internally, but that is not what happened. Why am I certain? I have certainty. For some reason, I did have a curious feeling in my stomach, mouth and during one of the trance state long prior to breaking fast with the matcha and the word that welled to explain it was: "Strychnine" and I know not why. I heard the word internally.
+Both GenAI responses focus on matcha as the driver of the emesis (a word to which I was not previously privy), but if that was the cause of the chemical imbalance, I contend the balance of it would have been expelled and it was not. Far from it. They say the shed lining is generally repurposed internally, but that is not what happened. Why am I certain? I have certainty. For some reason, I did have a curious feeling in my stomach, mouth and during one of the trance state long prior to breaking fast with the matcha and the word that welled to explain it was: "[Strychnine](https://en.wikipedia.org/wiki/Strychnine)" and I know not why. I heard the word internally.
 
 ## Friday, September 26, 2025 ##
 
