@@ -2,7 +2,7 @@
 
 Rationale: The personal log is useful as data for self-reflexivity and data mining and for coding this repository.
 
-As a very strong, general rule, no eating of macronutrients bar appropriate fats and oils during hours of daylight. This of course, needmust have exceptionalisms: personal contraindications, professional and situational exigencies, amongst other factors. The app must have this as a strong policy.
+As a very strong, general rule, no eating of macronutrients bar appropriate fats and oils during hours absent of daylight. I do appreciate this is a deathknell to the 'evening family meal', but the discourse is making thos clear. This of course, needmust have exceptionalisms: personal contraindications, professional and situational exigencies, amongst other factors. The app must have this as a strong policy.
 
 
 ## Saturday, September 27, 2025 ##
