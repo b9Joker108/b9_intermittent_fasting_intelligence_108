@@ -8,8 +8,6 @@ Just got in the door. Set the Hydrogen water kettle to 45°C. Turned on the kett
 
 **Intertextuality**
 
-https://youtu.be/PyuefwWwz50?si=n28H3Zj6STZKewJz
-
 <a href="https://youtu.be/PyuefwWwz50?si=n28H3Zj6STZKewJz">
   <img src="https://img.youtube.com/vi/PyuefwWwz50/default.jpg" alt="Video Thumbnail" width="100">
 </a>
