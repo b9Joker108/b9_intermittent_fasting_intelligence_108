@@ -2,6 +2,10 @@
 
 Rationale: The personal log is useful as data for self-reflexivity and data mining and for coding this repository.
 
+## Sunday, September 28, 2025 ##
+
+Just got in the door. Set the hydrogen water kettle to 45°C. Turned on the kettle. Initiated log. Lots of walking. Some select procurement. Cross country jogging, balancework, proprioception callibration and passive stretching. Ended up fasting for j&st on 15 hours. Failed on the domestic front. Remiss with bells: giri and glock. Lamentation. Now, to prashadam: the feasting phase/eating window. Sri Sri Sri.
+
 ## Saturday, September 27, 2025 ##
 
 https://soundcloud.com/benign-hummingbird-hovering/27092025-m4a
