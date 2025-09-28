@@ -4,7 +4,7 @@ Rationale: The personal log is useful as data for self-reflexivity and data mini
 
 ## Sunday, September 28, 2025 ##
 
-Just got in the door. Set the Hydrogen water kettle to 45°C. Turned on the kettle. Initiated log. Lots of walking. Some select procurement. Cross country jogging, balancework, proprioception callibration and passive stretching with a dash of dynamism. Ended up fasting for just on 15 hours. Failed on the domestic front. Remiss with 'bells': 'giri' (Russian: [ги́ря](https://en.wiktionary.org/wiki/%D0%B3%D0%B8%D1%80%D1%8F)) and 'glocken' (German). Lamentation. Now, to prashadam: the feasting phase/eating window. Sri Sri Sri. In feasting, even prior to hydration, I led with unhulled sunflower seeds: A vanguard of dilligent cleaners. Really, they were first out of the gate as they were in reach. In nature, if the berry is edible, it is a premium draw of diverse predation. You are blessed if you comeby a patch. Never eat or cook with in excess. Danger/HazChem: Medicine lolly.
+Just got in the door. Set the Hydrogen water kettle to 45°C. Turned on the kettle. Initiated log. Lots of walking. Some select procurement. Cross country jogging, balancework, proprioception callibration and passive stretching with a dash of dynamism. Ended up fasting for just on 15 hours. Failed on the domestic front. Remiss with 'bells': 'giri' (Russian: [ги́ря](https://en.wiktionary.org/wiki/%D0%B3%D0%B8%D1%80%D1%8F)) and 'glocken' (German). Lamentation. Now, to prashadam: the feasting phase/eating window. Sri Sri Sri. In feasting, even prior to hydration, I led with unhulled sunflower seeds: A vanguard of dilligent cleaners. Really, they were first out of the gate as they were in reach. 
 
 **Intertextuality**
 
@@ -12,7 +12,8 @@ Just got in the door. Set the Hydrogen water kettle to 45°C. Turned on the kett
   <img src="https://img.youtube.com/vi/PyuefwWwz50/default.jpg" alt="Video Thumbnail" width="100">
 </a>
 
-Ran out of sunflower seeds. The chewing and crunch was a delight. So, replenished supply. This time, equal parts: unhulled sunflower seeds, dried gojis and dried cranberries. With a side of 45°C Hydrogen water and a pinch of Lotus coarse Celtic sea salt (sublime) and a hot beverage of ceremonial grade organic cacao, with 1/4 teaspoon each of nutmeg, cinnamon and turmeric, two cloves, a dollop of butter from the butterbell and a dollop of MCT oil. Dried fruit are medicinal lollies, to be had regularly in small portions.
+Ran out of sunflower seeds. The chewing and crunch was a delight. So, replenished supply. This time, equal parts: unhulled sunflower seeds, dried gojis and dried cranberries. With a side of 45°C Hydrogen water and a pinch of Lotus coarse Celtic sea salt (sublime) and a hot beverage of ceremonial grade organic cacao, with 1/4 teaspoon each of nutmeg, cinnamon and turmeric, two cloves, a dollop of butter from the butterbell and a dollop of MCT oil. Dried fruit are medicinal lollies, to be had regularly in small portions. In nature, if the berry is edible, it is a premium draw of diverse predation. You are blessed if you comeby a patch. Never eat or cook with in excess. Danger/HazChem: Medicine lolly.
+
 
 
 ## Saturday, September 27, 2025 ##
