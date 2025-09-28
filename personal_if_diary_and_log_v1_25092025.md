@@ -4,7 +4,7 @@ Rationale: The personal log is useful as data for self-reflexivity and data mini
 
 ## Sunday, September 28, 2025 ##
 
-Just got in the door. Set the hydrogen water kettle to 45°C. Turned on the kettle. Initiated log. Lots of walking. Some select procurement. Cross country jogging, balancework, proprioception callibration and passive stretching. Ended up fasting for just on 15 hours. Failed on the domestic front. Remiss with bells: giri and glock. Lamentation. Now, to prashadam: the feasting phase/eating window. Sri Sri Sri.
+Just got in the door. Set the hydrogen water kettle to 45°C. Turned on the kettle. Initiated log. Lots of walking. Some select procurement. Cross country jogging, balancework, proprioception callibration and passive stretching. Ended up fasting for just on 15 hours. Failed on the domestic front. Remiss with bells: 'giri' (Russian: ги́ря) and glock. Lamentation. Now, to prashadam: the feasting phase/eating window. Sri Sri Sri.
 
 ## Saturday, September 27, 2025 ##
 
