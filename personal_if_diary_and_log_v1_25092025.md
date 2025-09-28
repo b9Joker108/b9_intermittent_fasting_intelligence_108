@@ -12,7 +12,7 @@ Just got in the door. Set the Hydrogen water kettle to 45°C. Turned on the kett
   <img src="https://img.youtube.com/vi/PyuefwWwz50/default.jpg" alt="Video Thumbnail" width="100">
 </a>
 
-Ran out of sunflower seeds. The chewing and crunch was a delight. So, replenished supply. This time, equal parts: unhulled sunflower seeds, dried gojis and dried cranberries. With a side of 45°C Hydrogen water and a pinch of Lotus coarse Celtic sea salt (sublime) and a hot beverage of ceremonial grade organic cacao, with 1/4 teaspoon each of nutmeg, cinnamon and turmeric, two cloves, a dollop of butter from the butterbell and a dollop of MCT oil.
+Ran out of sunflower seeds. The chewing and crunch was a delight. So, replenished supply. This time, equal parts: unhulled sunflower seeds, dried gojis and dried cranberries. With a side of 45°C Hydrogen water and a pinch of Lotus coarse Celtic sea salt (sublime) and a hot beverage of ceremonial grade organic cacao, with 1/4 teaspoon each of nutmeg, cinnamon and turmeric, two cloves, a dollop of butter from the butterbell and a dollop of MCT oil. Dried fruit are medicinal lollies.
 
 
 ## Saturday, September 27, 2025 ##
