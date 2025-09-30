@@ -16,6 +16,10 @@ Key requirements include:
  * Recertifying every three (3) years to ensure continuous improvement.
 Benefits often include enhanced brand credibility, access to a global community and a framework for continuous improvement in positive impact.
 
+**Intertextuality**
+
+https://2026.everythingopen.au/
+
 
 ## Monday, September 29, 2025 ##
 
