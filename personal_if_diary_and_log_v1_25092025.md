@@ -20,6 +20,14 @@ Benefits often include enhanced brand credibility, access to a global community 
 
 https://2026.everythingopen.au/
 
+** Tangential Personal Note **
+
+https://www.brightonhistorical.org.au/index.php/fashion-homegrown#:~:text=The%20following%20year%2C%201953%2C%20marked,Women's%20Weekly%2C%2027%20August%201958.
+
+https://www.atua.org.au/biogs/ALE0007b.htm
+
+https://en.wikipedia.org/wiki/Shop,_Distributive_and_Allied_Employees_Association
+
 
 ## Monday, September 29, 2025 ##
 
