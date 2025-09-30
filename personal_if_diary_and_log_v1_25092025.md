@@ -6,7 +6,7 @@ Rationale: The personal log is useful as data for self-reflexivity and data mini
 
 App to be certified as standard by:
 
-B Corp Certification, granted by the [non-profit B Lab (Aus & NZ)](https://bcorporation.com.au/about/), signifies a for-profit company meets high standards of social and environmental performance, accountability, and transparency.
+[B Corp Certification](https://en.wikipedia.org/wiki/B_Corporation_(certification)), granted by the [non-profit B Lab (Aus & NZ)](https://bcorporation.com.au/about/), signifies a for-profit company meets high standards of social and environmental performance, accountability, and transparency.
 Key requirements include:
  * Achieving a minimum verified score of 80 on the B Impact Assessment (BIA), which evaluates governance, workers, community, environment, and customers.
  * Integrating stakeholder governance into legal governing documents to commit to balancing profit and purpose.
