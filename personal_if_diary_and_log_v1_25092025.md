@@ -28,7 +28,7 @@ https://www.atua.org.au/biogs/ALE0007b.htm
 
 https://en.wikipedia.org/wiki/Shop,_Distributive_and_Allied_Employees_Association
 
-https://books.google.com/books/about/A_Crucible_of_Creative_Fashion_Talent.html
+https://books.google.com/books/about/A_Crucible_of_Creative_Fashion_Talent.html?id=edegAAAACAAJ
 
 Permezel, Barbara, A Crucible of Creative Fashion Talent: Australian Gown of the Year 1953 -1993, Shop Distributive and Allied Employees’ Association, Melbourne, 1993.   Can you locate?
 
