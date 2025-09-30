@@ -13,8 +13,8 @@ Key requirements include:
  * Achieving a minimum verified score of 80 on the B Impact Assessment (BIA), which evaluates governance, workers, community, environment, and customers.
  * Integrating stakeholder governance into legal governing documents to commit to balancing profit and purpose.
  * Meeting transparency requirements, including public disclosure of performance.
- * Recertifying every three years to ensure continuous improvement.
-Benefits often include enhanced brand credibility, access to a global community, and a framework for continuous improvement in positive impact.
+ * Recertifying every three (3) years to ensure continuous improvement.
+Benefits often include enhanced brand credibility, access to a global community and a framework for continuous improvement in positive impact.
 
 
 ## Monday, September 29, 2025 ##
