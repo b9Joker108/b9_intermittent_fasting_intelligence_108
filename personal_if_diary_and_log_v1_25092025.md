@@ -28,6 +28,75 @@ https://www.atua.org.au/biogs/ALE0007b.htm
 
 https://en.wikipedia.org/wiki/Shop,_Distributive_and_Allied_Employees_Association
 
+Permezel, Barbara, A Crucible of Creative Fashion Talent: Australian Gown of the Year 1953 -1993, Shop Distributive and Allied Employees’ Association, Melbourne, 1993.   Can you locate?
+
+## Barbara Permezel's "A Crucible of Creative Fashion Talent: Australian Gown of the Year 1953-1993" - Availability and Location
+
+The book you are seeking is confirmed to exist and can be located through several channels. Published in 1993 by the Shop Distributive and Allied Employees' Association in Melbourne, this specialized volume chronicles the winners of the Australian Gown of the Year competition during its first four decades[1][2].
+
+### **Physical Copies Available**
+
+**Brotherhood Books** currently has a copy listed for sale, described as a first edition hardbound in velvet-covered boards without dust jacket, containing 54 pages with gilt lettering on the spine[1]. The book is illustrated by Denise Sprynskyj and features black and white illustrations documenting the competition winners[3].
+
+**eBay Australia** also has copies available, with one listing describing it as a small quarto volume (20cms wide x 26cms tall) in original velour boards with gilt lettering[3].
+
+### **Library Holdings**
+
+The book is held in major library collections:
+
+**National Library of Australia** has the book in their catalogue with the full bibliographic entry: "A crucible of creative fashion talent : Australian Gown of the Year, 1953-1993 / by Barbara Permezel ; illustrated by Denise Sprynskyj"[4]. You can request to order a copy through their catalogue system.
+
+**WorldCat** lists the book with OCLC number 38335404, indicating it is held in multiple libraries internationally[5][6][7]. The WorldCat entry shows it as authored by Barbara Permezel and contributed to by the Shop, Distributive and Allied Employees' Association.
+
+### **Academic Citations and References**
+
+The book is frequently cited in fashion history research, particularly in studies of Australian fashion development. The Brighton Historical Society extensively references Permezel's work in their research on Australian fashion history, specifically regarding the evolution of the Gown of the Year competition and its significance in Melbourne's fashion industry[2].
+
+### **Historical Context**
+
+The Shop Distributive and Allied Employees' Association, the publisher, has a documented history in Melbourne dating back to the early 1900s, with the organization undergoing several name changes before settling on its current form in 1991[8][9]. The association's involvement in publishing this fashion history reflects the union's connection to the retail and fashion industry through its representation of models and fashion workers.
+
+This unique velvet-covered volume represents an important document of Australian fashion history, chronicling a competition that played a significant role in Melbourne's fashion scene from 1953 onwards[1][2].
+
+Citations:
+[1] A Crucible of Creative Fashion Talent: Australian Gown ... https://www.brotherhoodbooks.org.au/a-crucible-of-creative-fashion-talent-australian-gown-of-the-year-1953-1993-0001000034755
+[2] Brighton Historical Society - Fashion homegrown https://www.brightonhistorical.org.au/index.php/fashion-homegrown
+[3] Crucible of Creative Fashion Talent, Australian Gown of the ... https://www.ebay.com.au/itm/304551303388
+[4] Australian Gown of the Year, 1953-1993 / by Barbara ... https://nla.gov.au/nla.cat-vn2858880
+[5] Australian Gown of the Year, 1953-1993 https://www.worldcat.org/cs/title/crucible-of-creative-fashion-talent-australian-gown-of-the-year-1953-1993/oclc/38335404
+[6] A Crucible of Creative Fashion Talent https://books.google.com/books/about/A_Crucible_of_Creative_Fashion_Talent.html?id=edegAAAACAAJ
+[7] A crucible of creative fashion talent : Australian Gown of the Year ... https://www.worldcat.org/es/title/crucible-of-creative-fashion-talent-australian-gown-of-the-year-1953-1993/oclc/38335404
+[8] Shop Distributive & Allied Employees Association (ii) https://www.atua.org.au/biogs/ALE0008b.htm
+[9] Our History | SDA Victoria (website) https://www.sdavic.org/our-history
+[10] 16 Sep 1965 - National fashion parade comes to Canberra https://trove.nla.gov.au/newspaper/article/105862083
+[11] Clothe – "to put clothes on" "to provide with clothes" "to endow ... https://www.clothe.net.au
+[12] R5283 https://www.fwc.gov.au/documents/decisionssigned/html/r5283.htm
+[13] SDA - the union for workers in retail, fast food and warehousing https://www.sda.au
+[14] Shop, Distributive and Allied Employees Association ... https://www.fwc.gov.au/registered-organisations/find-registered-organisation/shop-distributive-and-allied-employees
+[15] Vintage clothing http://www.clothe.net.au/tag/vintage-clothing/feed/
+[16] Exhibitions - State Library Victoria - history - Research Guides https://guides.slv.vic.gov.au/slvhistory/exhibitions
+[17] Fashion: The Definitive History of Costume and Style (2012) https://fashionhistory.fitnyc.edu/source-database/time-period/19th-century/fashion-dk-2012/
+[18] Pictures https://www.slv.vic.gov.au/search-discover/explore-collections-format/pictures
+[19] Clothing and fashion : American fashion from head to toe | WorldCat.org https://search.worldcat.org/title/Clothing-and-fashion-:-American-fashion-from-head-to-toe/oclc/904505699
+[20] Fashion - Research Guides at State Library of Victoria https://guides.slv.vic.gov.au/fashion/research
+[21] Berg encyclopedia of world dress and fashion | WorldCat.org https://search.worldcat.org/title/Berg-encyclopedia-of-world-dress-and-fashion/oclc/276221868
+[22] Vali Myers: Australian artist https://blogs.slv.vic.gov.au/arts/painting/vali-myers-australian-artist/
+[23] Heavenly bodies : fashion and the Catholic imagination | WorldCat.org https://search.worldcat.org/title/Heavenly-bodies-:-fashion-and-the-Catholic-imagination/oclc/1040993433
+[24] A-Z Databases - Research Guides - State Library Victoria https://guides.slv.vic.gov.au/az/databases
+[25] Fashion zeitgeist : trends and cycles in the fashion system | WorldCat.org https://search.worldcat.org/title/Fashion-zeitgeist-:-trends-and-cycles-in-the-fashion-system/oclc/56481999
+[26] Popular digitised collections https://www.slv.vic.gov.au/search-discover/popular-digitised-collections
+[27] Fashion in fiction : text and clothing in literature, film, and television | WorldCat.org https://search.worldcat.org/title/Fashion-in-fiction-:-text-and-clothing-in-literature-film-and-television/oclc/1417227948
+[28] Victoria through the decades https://www.slv.vic.gov.au/stories/victoria-through-decades
+[29] Chapter Two https://www.oclc.org/content/dam/research/grants/reports/perrault/chapter2final.pdf
+[30] Search & discover https://www.slv.vic.gov.au/search-discover
+[31] Fellowships 2026: Explore, question, discover and share https://www.library.gov.au/news-media/fellowships-2026-explore-question-discover-and-share
+[32] r *-*:“»{ - Open Research Repository - The Australian National ... https://openresearch-repository.anu.edu.au/bitstreams/da3d8d9a-c079-43c3-8bed-b9978f2190d2/download
+[33] Create Futuristic Fashion that is Out of this world! https://www.slsa.sa.gov.au/create-futuristic-fashion-out-of-world
+[34] 25 Jul 1984 - Gown of Year fashions on way to SA - Trove https://trove.nla.gov.au/newspaper/article/279208027
+[35] Continuing Change, Constant Engagement ... - Emerald Insight https://www.emerald.com/books/book-pdf/10086861/978-1-83549-130-0en.pdf
+[36] Chhaava streaming: where to watch movie online? https://www.justwatch.com/in/movie/chaava
+
+
 
 ## Monday, September 29, 2025 ##
 
