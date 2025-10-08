@@ -2,6 +2,10 @@
 
 Rationale: The personal log is useful as data for self-reflexivity and data mining and for coding this repository.
 
+## Wednesday, October 8, 2025 - Wednesday, October 1, 2025 ##
+
+I am truly surprised it has been so many days since I weblogged last in this repository. I note, I also have housekeeping and editing of prior entries yet to be realised. I will get to it when I do. I have just been integrating and embodying deeply triangulated theory-and-practice into my personal practice and embodiment in a planned way, but also responsively on-the-fly. My diet is profoundly triangulated and informed. With Time-Restricted-Eating and Intermittent Fasting, I have noticed and noted, that I pass so much less stool and urine for the same amount of food and drink intake. My digestive system is decidedly slower in digestition as well. My digestion nd digestive tract and system, my gut, has rapidly become so much more immediately subtle and responsive to inputs. I am surprised how markedly and quickly this transition has happenned. I draw from this that my body is metabolizing more efficiently. Outdoor cross-country jogging and inclusions and indoor giriwork (kettlebells) and inclusions whilst in my fasting phase, are progressing daily.
+
 ## Tuesday, September 30, 2025 ##
 
 App to be certified as standard by:
