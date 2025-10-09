@@ -1,6 +1,6 @@
 # Microbiome #
 
-Is any period of intermittent fasting like the life of Sri Brahma and deprevation for the ephemera of microbiota?
+Is any period of intermittent fasting like the life of Sri Brahma and deprivation for the ephemera of microbiota?
 
 # The Cosmic Perspective: Intermittent Fasting and the Parallel of Sri Brahma's Existence to Microbiota's Ephemeral Lives
 
