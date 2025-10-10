@@ -124,19 +124,22 @@ structure:
       - web:4
       - web:13
 api_ready:
-  variables: "all variables plain English"
-  fields: "formatted for shell, Python, Knowledge Graph integration"
-  referenced_studies: "all referenced studies parseable"
+  variables:
+    - all variables plain English
+  fields:
+    - formatted for shell, Python, Knowledge Graph integration
+  referenced_studies:
+    - all referenced studies parseable
 references:
-  web:4: Intermittent fasting improves hepatic end points in nonalcoholic fatty liver disease: A systematic review and meta-analysis. PMC10552959, 2023.
-  web:5: A Randomised Controlled Trial on Effectiveness and Safety of Extended Fasting for NAFLD. Nature, 2019.
-  web:9: 7 fast and effective ways to get into ketosis, Medical News Today, 2023.
-  web:10: Current Evidence Concerning Effects of Ketogenic Diet and Intermittent Fasting on NAFLD. PMC9396320, 2022.
-  web:13: Different Dietary Approaches, Non-Alcoholic Fatty Liver Disease: Clinical Evidence. PMC10058124, 2023.
-  web:14: Keto Menu–Effect of Ketogenic Menu and Intermittent Fasting on NAFLD. PMC10486763, 2023.
-  web:15: Dietary patterns in non-alcoholic fatty liver disease (NAFLD). Elsevier, 2022.
-  web:17: The 40 Hour Fast: How to & Benefits. 2023.
-  web:18: A Comprehensive Guide To Fasting: Timeline, Stages & Benefits. 2025.
+  web:4: "Intermittent fasting improves hepatic end points in nonalcoholic fatty liver disease: A systematic review and meta-analysis. PMC10552959, 2023."
+  web:5: "A Randomised Controlled Trial on Effectiveness and Safety of Extended Fasting for NAFLD. Nature, 2019."
+  web:9: "7 fast and effective ways to get into ketosis, Medical News Today, 2023."
+  web:10: "Current Evidence Concerning Effects of Ketogenic Diet and Intermittent Fasting on NAFLD. PMC9396320, 2022."
+  web:13: "Different Dietary Approaches, Non-Alcoholic Fatty Liver Disease: Clinical Evidence. PMC10058124, 2023."
+  web:14: "Keto Menu–Effect of Ketogenic Menu and Intermittent Fasting on NAFLD. PMC10486763, 2023."
+  web:15: "Dietary patterns in non-alcoholic fatty liver disease (NAFLD). Elsevier, 2022."
+  web:17: "The 40 Hour Fast: How to & Benefits. 2023."
+  web:18: "A Comprehensive Guide To Fasting: Timeline, Stages & Benefits. 2025."
 notes:
   - All sections, steps, and fields are programmatically accessible by name, label, or index.
   - YAML structure is suitable for ingest into a Knowledge Graph, API, Clinical Intranet, automated LLM prompt engineering pipelines, and scripting environments.
