@@ -1,9 +1,9 @@
 ---
 title: Integrated Protocol for Maximizing Ketosis and Hepatic Benefits in 40-hour Intermittent Fasting for NAFLD
-description: >-
+description: |
   Evidence-driven, structured protocol for leveraging extended intermittent fasting (40-hour fasts)
-  with ketogenic/Mediterranean/polyphenol-rich dietary interventions in Non-Alcoholic Fatty Liver Disease (NAFLD).
-  All recommendations derived from high-quality peer-reviewed clinical trials and systematic reviews (2023–2025).
+  alongside ketogenic/Mediterranean/polyphenol-rich dietary interventions in Non-Alcoholic Fatty Liver Disease (NAFLD).
+  All recommendations are derived from high-quality peer-reviewed clinical trials and systematic reviews (2023–2025).
 created: 2025-10-11T10:51:00+11:00
 updated: 2025-10-11T10:51:00+11:00
 authors:
@@ -31,37 +31,44 @@ audience:
 structure:
   prefast_window:
     duration: 48h
-    carbohydrates: ≤20% daily caloric intake
-    fats: >45% daily, prioritize MUFA/PUFA: [olive oil, wild fish, macadamia]
-    proteins: moderate (1–1.2g/kg)
-    polyphenols: "high; berries, cacao, green tea, red cabbage"
+    carbohydrates: "<=20% daily caloric intake"
+    fats: ">45% daily, prioritize MUFA/PUFA (olive oil, wild fish, macadamia)"
+    proteins: "moderate (1–1.2g/kg)"
+    polyphenols: "high (berries, cacao, green tea, red cabbage)"
     key_modulators:
-      - "berberine"
-      - "green tea catechins"
-      - "resveratrol"
-      - "moringa (optional)"
-    objective: "glycogen depletion, AMPK/SIRT1 activation, mitochondrial priming"
+      - berberine
+      - green tea catechins
+      - resveratrol
+      - moringa (optional)
+    objective: glycogen depletion, AMPK/SIRT1 activation, mitochondrial priming
     references:
       - web:14
       - web:10
   last_meal_before_fast:
     macronutrients:
-      carbs: <20g
+      carbs: "<20g"
       protein: moderate
-      fats: high (olive oil, oily fish)
+      fats: "high (olive oil, oily fish)"
     phytonutrients: "high-fiber, high-polyphenol, crucifers, leafy greens"
-    timing: "within 2h of fast start"
-    outcome: "sustained satiety, blunted ROS, support hepatic switch"
+    timing: within 2h of fast start
+    outcome: sustained satiety, blunted ROS, supports hepatic switch
     references:
       - web:10
   core_fasting:
     window: 40h
-    allowed: [water, electrolytes, black coffee, plain tea]
-    prohibited: [caloric intake, sweeteners, supplements except electrolytes/caffeine]
+    allowed:
+      - water
+      - electrolytes
+      - black coffee
+      - plain tea
+    prohibited:
+      - caloric intake
+      - sweeteners
+      - supplements except electrolytes/caffeine
     activity: "light-moderate aerobic (first 12–24h), then rest"
     targets:
       blood_ketones: ">=1.5 mmol/L (β-hydroxybutyrate), optional lab monitoring"
-    physiological_goals: "visceral fat mobilization, maximal autophagy, hepatic ALT/AST drop"
+    physiological_goals: visceral fat mobilization, maximal autophagy, hepatic ALT/AST drop
     risk_management:
       frequency: "max once/week"
       monitoring: "dehydration, hypoglycemia, excessive catabolism"
@@ -70,59 +77,71 @@ structure:
       - web:17
       - web:5
   mid_fast_monitoring:
-    tools: [blood ketone meter, hydration, symptom tracking]
-    dynamic_response: "extend/reduce based on well-being and target ketosis range"
+    tools:
+      - blood ketone meter
+      - hydration
+      - symptom tracking
+    dynamic_response: extend/reduce based on well-being and target ketosis range
     references:
       - web:18
       - web:9
   refeeding_protocol:
     window: "first meal post-fast + subsequent 24h"
     macronutrients:
-      protein: moderate (20–30g/meal)
+      protein: "moderate (20–30g/meal)"
       fats: "moderate to high MUFA/PUFA"
       carbs: "strictly <30g (low-glycemic, non-starchy)"
-    polyphenols: "rich; blackberries, green/herbal tea, spices"
-    foods: ["wild fish", "olive oil", "crucifers", "ferments", "red/purple vegetables"]
-    supplements: [berberine, green tea, resveratrol, moringa, silymarin]
-    outcome: "prevent hepatic insulin/lipogenesis rebound, sustain fat oxidation, redox, and anti-inflammatory status"
+    polyphenols: "rich (blackberries, green/herbal tea, spices)"
+    foods:
+      - wild fish
+      - olive oil
+      - crucifers
+      - ferments
+      - red/purple vegetables
+    supplements:
+      - berberine
+      - green tea
+      - resveratrol
+      - moringa
+      - silymarin
+    outcome: prevent hepatic insulin/lipogenesis rebound, sustain fat oxidation, redox, and anti-inflammatory status
     references:
       - web:10
       - web:14
       - web:15
       - web:13
   rationale:
-    - "Meta-analyses confirm that 36–40h IF protocols yield marked improvements in visceral fat, liver enzymes, and hepatic steatosis in NAFLD vs. shorter TRE"
-    - "Pre-fast ketogenic/low-carb polyphenol strategy primes rapid, high-level ketosis and hepatic autophagy"
-    - "Polyphenol supplementation supports hepatic redox, AMPK and mitochondrial biogenesis (clinical endpoints: reduced ALT/AST, lower FLI)"
-    - "Mediterranean-ketogenic hybrid refeeding sustains benefit, blocks post-IF steatosis rebound"
-    - "High adherence, rigorous monitoring, and once-per-week frequency maximize safety"
-    - "Recommendations strictly limited to peer-reviewed clinical studies, RCTs, and major systematic reviews from 2022–2025"
+    - Meta-analyses confirm that 36–40h IF protocols yield marked improvements in visceral fat, liver enzymes, and hepatic steatosis in NAFLD vs. shorter TRE.
+    - Pre-fast ketogenic/low-carb polyphenol strategy primes rapid, high-level ketosis and hepatic autophagy.
+    - Polyphenol supplementation supports hepatic redox, AMPK and mitochondrial biogenesis (clinical endpoints: reduced ALT/AST, lower FLI).
+    - Mediterranean-ketogenic hybrid refeeding sustains benefit and blocks post-IF steatosis rebound.
+    - High adherence, rigorous monitoring, and once-per-week frequency maximize safety.
+    - Recommendations strictly limited to peer-reviewed clinical studies, RCTs, and major systematic reviews from 2022–2025.
     references:
       - web:5
       - web:14
       - web:10
       - web:4
       - web:13
-api-ready:
-  - all variables plain English
-  - fields formatted for shell, Python, Knowledge Graph integration
-  - all referenced studies parseable
+api_ready:
+  variables: "all variables plain English"
+  fields: "formatted for shell, Python, Knowledge Graph integration"
+  referenced_studies: "all referenced studies parseable"
 references:
-  web:4: "Intermittent fasting improves hepatic end points in nonalcoholic fatty liver disease: A systematic review and meta-analysis. PMC10552959, 2023."
-  web:5: "A Randomised Controlled Trial on Effectiveness and Safety of Extended Fasting for NAFLD. Nature, 2019."
-  web:9: "7 fast and effective ways to get into ketosis, Medical News Today, 2023."
-  web:10: "Current Evidence Concerning Effects of Ketogenic Diet and Intermittent Fasting on NAFLD. PMC9396320, 2022."
-  web:13: "Different Dietary Approaches, Non-Alcoholic Fatty Liver Disease: Clinical Evidence. PMC10058124, 2023."
-  web:14: "Keto Menu–Effect of Ketogenic Menu and Intermittent Fasting on NAFLD. PMC10486763, 2023."
-  web:15: "Dietary patterns in non-alcoholic fatty liver disease (NAFLD). Elsevier, 2022."
-  web:17: "The 40 Hour Fast: How to & Benefits. 2023."
-  web:18: "A Comprehensive Guide To Fasting: Timeline, Stages & Benefits. 2025."
+  web:4: Intermittent fasting improves hepatic end points in nonalcoholic fatty liver disease: A systematic review and meta-analysis. PMC10552959, 2023.
+  web:5: A Randomised Controlled Trial on Effectiveness and Safety of Extended Fasting for NAFLD. Nature, 2019.
+  web:9: 7 fast and effective ways to get into ketosis, Medical News Today, 2023.
+  web:10: Current Evidence Concerning Effects of Ketogenic Diet and Intermittent Fasting on NAFLD. PMC9396320, 2022.
+  web:13: Different Dietary Approaches, Non-Alcoholic Fatty Liver Disease: Clinical Evidence. PMC10058124, 2023.
+  web:14: Keto Menu–Effect of Ketogenic Menu and Intermittent Fasting on NAFLD. PMC10486763, 2023.
+  web:15: Dietary patterns in non-alcoholic fatty liver disease (NAFLD). Elsevier, 2022.
+  web:17: The 40 Hour Fast: How to & Benefits. 2023.
+  web:18: A Comprehensive Guide To Fasting: Timeline, Stages & Benefits. 2025.
 notes:
-  - All sections, steps, and fields should be programmatically accessible by name, label, or index.
+  - All sections, steps, and fields are programmatically accessible by name, label, or index.
   - YAML structure is suitable for ingest into a Knowledge Graph, API, Clinical Intranet, automated LLM prompt engineering pipelines, and scripting environments.
   - No generalities or platitudes—all assertions trace to peer-reviewed evidence or clinical outcomes in NAFLD/ketogenic/IF research.
 ---
-
 
 
 # Non-Alcoholic Fatty Liver Disease: Interventions #
