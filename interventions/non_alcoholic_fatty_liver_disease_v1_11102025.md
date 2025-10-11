@@ -227,3 +227,4 @@ Citations:
 [20] Intermittent fasting https://dietitiansaustralia.org.au/health-advice/intermittent-fasting
 
 
+The integrated dietary intervention is approaching sound. But, the complementary and necessary activity and exercise inclusivity, is get to be triangulated and integrated into the intervention wirh defensible precision. T.B.C.
