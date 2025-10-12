@@ -1606,3 +1606,88 @@ https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
 4. https://au.mouser.com/new/google-coral/coral-M2-accelerator-dual-tpu/  
 5. https://coral.ai/products/m2-accelerator-ae/
 
+
+
+
+# Survey of Globally Distributed Computing for Sovereign GenAI Grunt
+
+## 1. Terminology and Origins
+
+Distributed aggregation of idle CPU/GPU resources across volunteer devices dates back to the launch of SETI@home in 1999, where home PCs processed radio‐telescope data at Berkeley Lab. That model—commonly called **volunteer computing** or **grid computing**—spawned middleware frameworks, incentive layers and blockchain‐driven variants to coordinate billions of cycles from disparate nodes.
+
+---
+
+## 2. Key Paradigms
+
+- **Volunteer Computing**  
+  End‐users install a client (e.g., BOINC) that fetches work units, processes them, and returns results. No monetary incentive is required; reputation or “credit” motivates participants.
+
+- **Grid Computing**  
+  Multiple administrative domains share resources under a common scheduler (e.g., Globus Toolkit). Focuses on high‐performance workloads spanning institutional clusters.
+
+- **Peer-to-Peer & Edge Aggregation**  
+  Devices advertise spare CPU/GPU/FPGA to neighbors (often over LAN or 5G). Work is dynamically pushed/pulled for low-latency inference or sensor fusion tasks.
+
+- **Blockchain-Incentivized Compute**  
+  Projects like Seti Network leverage a decentralized ledger to reward participants with tokens for processing SETI data, uniting Proof-of-Work semantics with scientific computation[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.seti.network/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=1 "seti.network").
+
+---
+
+## 3. Representative Frameworks
+
+| Category                       | Framework / Project        | Notes                                                 |
+|--------------------------------|----------------------------|-------------------------------------------------------|
+| Volunteer (Classic)            | BOINC                      | Supports SETI@home, Folding@home, climate modeling.   |
+| Cluster/Grid Middleware        | Globus Toolkit, UNICORE    | Federated schedulers, data staging, identity mgmt.    |
+| Blockchain-Incentivized        | Seti Network               | EVM-compatible PoW from segmented data processing[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.seti.network/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=1 "seti.network") |
+| Decentralized Edge AI          | Golem, iExec, SONM         | Containerized tasks, CPU/GPU rental via tokens.       |
+| Serverless Edge Orchestration  | OpenFaaS, KubeEdge         | Functions as a Service at the network edge.           |
+
+---
+
+## 4. Architecture Patterns
+
+1. **Work Unit Distribution**  
+   - Central server or decentralized DHT assigns small tasks.  
+   - Result validation via redundancy and quorum.
+
+2. **Result Aggregation & Validation**  
+   - Cross‐checking multiple hosts on same input.  
+   - Reputation or stake slashing to deter bad actors.
+
+3. **Incentive & Settlement**  
+   - Purely volunteer: credit systems (BOINC).  
+   - Tokenized: blockchain rewards pegged to compute contributed.
+
+4. **Security & Sandboxing**  
+   - Virtualization, containers (Docker, Firecracker).  
+   - Remote attestation (TPM, SGX) for trust on untrusted devices.
+
+---
+
+## 5. Applying to Sovereign GenAI Grunt
+
+To build a consumer-sovereign, globally distributed inference/training mesh:
+
+- **Middleware**: Adapt BOINC or a container-orchestration layer (KubeEdge) with GenAI task runners.  
+- **Incentives**: Integrate a lightweight token or reputation ledger (e.g., Seti Network style PoW) for fair allocation.  
+- **Security**: Enforce TEEs or container sandboxes to protect model IP and user privacy.  
+- **Data Sharding**: Split large models or datasets into micropackets for parallel execution.  
+- **Fallback & Orchestration**: Hybrid cloud gateway for stragglers and model aggregation.
+
+---
+
+## 6. Future Directions
+
+- **Federated Learning Aggregators** that combine host gradients rather than raw compute.  
+- **Mesh-Aware Scheduling** for ultra-low-latency edge inference.  
+- **Verifiable Compute** using zk-SNARKs to prove correct model evaluation.  
+- **Green Compute Markets** where renewable-powered nodes earn premium rewards.
+
+---
+
+## References
+
+1. Home | Seti Network – a blockchain-powered decentralized compute network for SETI data processing (2025). https://www.seti.network/
+
+
