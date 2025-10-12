@@ -517,4 +517,27 @@ https://www.iwosmartwatch.com/military-grade-gps-smartwatch-manufacturer/
 https://www.printables.com/model/874200-open-smartwatch-case-and-strap/files
 
 
+http://open-smartwatch.github.io/resources/3d-files-light-edition/
+
+
+
+## 🎥 DIY Smartwatch Soldering: Barometer + Connector + Vibration Motor
+
+[![DIY Smartwatch Soldering – Baro + Connector + Vibration Motor](https://img.youtube.com/vi/Z2i-vpBx2I0/maxresdefault.jpg "Watch: DIY Smartwatch Soldering – Baro + Connector + Vibration Motor")](https://www.youtube.com/shorts/Z2i-vpBx2I0?si=R4vybjKqvf6QAXv2)
+
+**Video Title**: DIY Smartwatch Soldering – Baro + Connector + Vibration Motor  
+**Duration**: Short-form (YouTube Shorts)  
+**Source**: [YouTube Shorts](https://www.youtube.com/shorts/Z2i-vpBx2I0?si=R4vybjKqvf6QAXv2)  
+**Description**: A hands-on demonstration of soldering components for a DIY smartwatch, including a barometric sensor, connector interface, and vibration motor. Ideal for embedded hardware enthusiasts and wearable prototyping.
+
+### 🔍 Accessibility Features
+- **Alt Text**: “Thumbnail showing DIY smartwatch soldering setup with barometer, connector, and vibration motor”
+- **Title Attribute**: Included in the image for screen readers
+- **Semantic Structure**: Uses heading, paragraph, and list elements for screen reader navigation
+- **Link Target**: Opens in YouTube Shorts interface for mobile-friendly viewing
+
+---
+
+> 📎 Tip: For enhanced accessibility, ensure your Markdown viewer or static site generator supports `title` and `alt` attributes in rendered HTML.
+
 
