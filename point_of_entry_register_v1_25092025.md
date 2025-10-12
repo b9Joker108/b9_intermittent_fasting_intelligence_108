@@ -1583,3 +1583,5 @@ References
 This BOM anticipates every possible SOTA sensing and comms need for on-wrist reconnaissance and room/object mapping. Let me know if you’d like sourcing links, build-scripts for firmware stacks (e.g., OpenVSLAM + RTAB-Map + ROS2), or a layered documentation template for archival.
 
 
+https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
+
