@@ -1585,3 +1585,24 @@ This BOM anticipates every possible SOTA sensing and comms need for on-wrist rec
 
 https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
 
+
+
+
+### Edge-AI Accelerator (Google Coral M.2) Purchase Links
+
+- **Amazon Australia**: Coral M.2 Accelerator with Dual Edge TPU — AU$151.49 [43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.amazon.com.au/Coral-M-2-Accelerator-Dual-Edge/dp/B0CY231Q61?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=1 "Amazon.com.au")  
+- **element14 Australia**: G650-06076-01 M.2 Accelerator, Dual Edge TPU — AU$79.92 (excl. GST) [43dcd9a7-70db-4a1f-b0ae-981daa162054](https://au.element14.com/coral/g650-06076-01/m-2-accelerator-w-dual-edge-tpu/dp/3885867?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=2 "element14 Australia")  
+- **RS Components**: Coral M.2 Accelerator with Dual Edge TPU (RS Stock No. 213-3255) — AU$112.02 (inc. GST) [43dcd9a7-70db-4a1f-b0ae-981daa162054](https://au.rs-online.com/web/p/microcontroller-development-tools/2133255?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=3 "au.rs-online.com")  
+- **Mouser Australia**: Coral TPU M.2 Dual Edge Accelerator Module — Price on request [43dcd9a7-70db-4a1f-b0ae-981daa162054](https://au.mouser.com/new/google-coral/coral-M2-accelerator-dual-tpu/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=4 "Mouser Electronics Australia")  
+- **Official Coral Product Page**: Coral M.2 Accelerator (A + E key) starting at US $24.99 MSRP [43dcd9a7-70db-4a1f-b0ae-981daa162054](https://coral.ai/products/m2-accelerator-ae/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=5 "Coral")  
+
+---
+
+#### References
+
+1. https://www.amazon.com.au/Coral-M-2-Accelerator-Dual-Edge/dp/B0CY231Q61  
+2. https://au.element14.com/coral/g650-06076-01/m-2-accelerator-w-dual-edge-tpu/dp/3885867  
+3. https://au.rs-online.com/web/p/microcontroller-development-tools/2133255  
+4. https://au.mouser.com/new/google-coral/coral-M2-accelerator-dual-tpu/  
+5. https://coral.ai/products/m2-accelerator-ae/
+
