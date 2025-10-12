@@ -1431,3 +1431,153 @@ Building a personal, SOTA prototype smartwatch as specified above is fully pract
 For those prioritizing absolute control, modularity, and future-proof hardware, this approach substantially closes the gap between maker ingenuity and market-leading consumer devices at a competitive cost.
 
 ---
+
+
+
+No—the last report didn’t yet cover an Ultra HD camera or the depth/ranging sensors needed for on-watch 2D/3D spatial scanning. If you want full room- or object-mapping capability you’ll need to augment the design with at least:
+
+- Ultra HD (4K) camera module  
+  - Example: Sony IMX219 (8 MP, 4K@30 fps) or OmniVision OV48C (48 MP, 4K@60 fps)  
+  - Cost (unit, small qty): IMX219 ~25 AUD; OV48C ~40 AUD  
+
+- Time-of-Flight (ToF) depth sensor  
+  - Example: STMicro VL53L5CX (up to 4 m range, 64×64 pixel depth map)  
+  - Cost: ~25 AUD  
+
+- Inertial Measurement Unit (IMU) for SLAM pose estimation  
+  - Example: Bosch BHI260AP or ST LSM6DSO (3 axis accel + gyro)  
+  - Cost: ~4 AUD  
+
+- Optional magnetometer for drift correction  
+  - Example: ST LIS3MDL (3 axis mag)  
+  - Cost: ~1 AUD  
+
+With those in place, you can run a lightweight SLAM pipeline (e.g., RTAB-Map or OpenVSLAM) on an embedded SoC (see prior MPU/SoC choices) or stream raw frames to a companion device for real-time mapping.  
+
+Would you like a detailed BOM table, sourcing links in AUD, and a sketch of the firmware stack to tie these sensors into a 2D/3D scan app?
+
+
+
+
+
+Comprehensive SOTA Sensor & Component Suite for Recon-Focused Smartwatch
+
+Below is a full bill-of-materials and costing (in AUD, small qty) for a personal-prototype, open-source, consumer-sovereign smartwatch optimized for reconnaissance. All listed modules have open-source or publicly documented drivers.
+
+---
+
+1. Optics & Imaging
+
+| Function         | Module                         | Interface     | Specs                              | Cost (AUD) |
+|------------------|---------------------------------|---------------|------------------------------------|------------|
+| Ultra HD Camera  | OmniVision OV48C               | MIPI CSI-2    | 48 MP; 4K@60 fps; autofocus         |  40        |
+| RGB-Depth Hybrid | Microsoft Azure Kinect (legacy)| USB 3.0       | RGB 3840×2160; depth 1024×1024 | 300        |
+| Thermal IR       | FLIR Lepton 3.5                | SPI           | 160×120, radiometric; 0.1 °C NETD   | 300        |
+
+---
+
+2. Depth & Ranging
+
+| Sensor Type     | Module                 | Interface | Range & Res.                    | Cost (AUD) |
+|-----------------|------------------------|-----------|---------------------------------|------------|
+| ToF Depth       | ST VL53L5CX            | I²C       | 1 m–4 m; 64×64 px depth map      |  25        |
+| LiDAR           | Benewake TF03          | UART      | 0.2 m–3 m; ±2 cm accuracy        |  80        |
+| Structured Light| Intel RealSense D435i* | USB 3.0   | Stereo IR; 1280×720 depth       | 280        |
+
+\* Larger footprint—best for bench tests or docked mapping.
+
+---
+
+3. Inertial & Orientation
+
+| Sensor          | Module             | Interface | Features                        | Cost (AUD) |
+|-----------------|--------------------|-----------|---------------------------------|------------|
+| 6-axis IMU      | ST LSM6DSO         | I²C/SPI   | Accel ±2 g; gyro ±125 dps       |   4        |
+| Magnetometer    | ST LIS3MDL         | I²C       | 3-axis, ±50 Gauss               |   1        |
+| Barometric Alt. | Bosch BMP388       | I²C       | ±0.08 hPa; 8 mm alt resolution  |   3        |
+
+---
+
+4. Environmental & Chemical
+
+| Sensor               | Module             | Interface | Measured Parameter            | Cost (AUD) |
+|----------------------|--------------------|-----------|-------------------------------|------------|
+| Temp & Humidity      | Sensirion SHTC3    | I²C       | −40 °C–125 °C; 0–100 % RH      |   2        |
+| Ambient Light        | VEML7700           | I²C       | 0.0036–120 klx                |   1        |
+| Air Quality (TVOC)   | CCS811             | I²C       | eCO₂ & TVOC                   |   3        |
+| Gas (CO, NO₂, O₃\*)  | SGPC3              | I²C       | VOC + SGP30-like gas sensing  |   2        |
+
+\* Ozone/NO₂ via MOS cross-sensitivity.
+
+---
+
+5. Acoustic & Haptics
+
+| Function        | Module                          | Interface  | Notes                         | Cost (AUD) |
+|-----------------|----------------------------------|------------|-------------------------------|------------|
+| Microphone x2   | Knowles SPH0645LM4H            | PDM        | 64 dB SNR; digital            |   2 ea      |
+| Vibration Motor | Precision Microdrives 308-100   | GPIO/PWM   | 10 mm ERM; 0.8 g              |  10         |
+
+---
+
+6. Connectivity & Ranging
+
+| Protocol   | Module                          | Interface | Range & Data Rate             | Cost (AUD) |
+|------------|----------------------------------|-----------|-------------------------------|------------|
+| Wi-Fi 4    | ESP32-WROOM-32                   | UART/SDIO | 2.4 GHz; 802.11 b/g/n         |   8        |
+| Bluetooth 5| integrated in ESP32             | UART      | BLE Low Energy               |   —        |
+| NFC        | NXP PN7150                       | I²C       | 13.56 MHz; peer-to-peer       |   4        |
+| LoRaWAN    | Semtech SX1276 module           | SPI       | 868 MHz (AU); 5 km+          |  10        |
+| GNSS       | u-blox M1516-F                  | UART/I²C  | GPS+GLONASS+Galileo; 72 ch   |  15        |
+
+---
+
+7. Compute & Storage
+
+| Component        | Module                   | Specs                            | Cost (AUD) |
+|------------------|--------------------------|----------------------------------|------------|
+| SoC              | NXP i.MX 8M Nano         | Quad-core Cortex-A53; 1 GB LPDDR4|  35        |
+| Flash Storage    | Micron eMMC 16 GB        | 400 MB/s read; 125 MB/s write     |  10        |
+| Power Mgmt & PMU | TI bq27541               | Fuel gauge; charger IC           |   5        |
+
+---
+
+8. Additional & Future-Proofing
+
+| Capability             | Module / Notes                            | Cost (AUD) |
+|------------------------|--------------------------------------------|------------|
+| UV Index               | VEML6075 (I²C)                             |   2        |
+| Radiation (Geiger)     | SBM-20 tube + HV driver                    |  20        |
+| Micro-SD Slot          | Push-push nano SD                          |   2        |
+| Display (dock only)    | Oled 0.96″ 160×80 (SPI)                    |   8        |
+| Edge-AI Accelerator    | Google Coral TPU M.2*                      |  75        |
+
+\* Only for tethered docking or belt-mounted use due to power.
+
+---
+
+9. Digital Print Case & Strap (Prototype)
+
+| Part           | Material & Method            | Qty | Unit Cost (AUD) | Notes                                 |
+|----------------|------------------------------|-----|-----------------|---------------------------------------|
+| Case           | Ti-6Al-4V via DMLS           | 1   |      250        | MIL-STD-810H; lightweight, rugged     |
+| Strap          | TPU (Cheetah) via FDM        | 1   |       15        | Flexible, tear-resistant             |
+| Fasteners      | 17-4 PH Stainless Screws     | 4   |        2        | Corrosion-resistant                   |
+
+---
+
+Total Prototype Cost (est.): ~ 900 AUD  
+(includes one-off print, modules, cabling, PCB prototyping)
+
+---
+
+References
+
+1. RF Wireless World – Smartwatch Hardware Components: sensors, PCBs, displays  
+2. RoboticsBiz – Key smartwatch electronics: PCBs, sensors, wireless ICs  
+3. fedona/ObjectPoseEstimation – Azure Kinect RGB-D specs  
+4. TI Smartwatch Design – wireless, sensing, power & UI reference designs  
+
+---
+
+This BOM anticipates every possible SOTA sensing and comms need for on-wrist reconnaissance and room/object mapping. Let me know if you’d like sourcing links, build-scripts for firmware stacks (e.g., OpenVSLAM + RTAB-Map + ROS2), or a layered documentation template for archival.
