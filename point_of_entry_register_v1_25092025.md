@@ -1573,11 +1573,13 @@ Total Prototype Cost (est.): ~ 900 AUD
 
 References
 
-1. RF Wireless World – Smartwatch Hardware Components: sensors, PCBs, displays  
-2. RoboticsBiz – Key smartwatch electronics: PCBs, sensors, wireless ICs  
-3. fedona/ObjectPoseEstimation – Azure Kinect RGB-D specs  
-4. TI Smartwatch Design – wireless, sensing, power & UI reference designs  
+1. RF Wireless World – Smartwatch Hardware Components: sensors, PCBs, displays  https://www.rfwireless-world.com/articles/smartwatch-hardware-components
+2. RoboticsBiz – Key smartwatch electronics: PCBs, sensors, wireless ICs  https://roboticsbiz.com/key-components-essential-for-a-smartwatch/
+3. fedona/ObjectPoseEstimation – Azure Kinect RGB-D specs  https://github.com/fedona/ObjectPoseEstimation-3D-Reconstruction
+4. TI Smartwatch Design – wireless, sensing, power & UI reference designs  https://www.ti.com/solution/smartwatch
 
 ---
 
 This BOM anticipates every possible SOTA sensing and comms need for on-wrist reconnaissance and room/object mapping. Let me know if you’d like sourcing links, build-scripts for firmware stacks (e.g., OpenVSLAM + RTAB-Map + ROS2), or a layered documentation template for archival.
+
+
