@@ -4,6 +4,11 @@ Rationale: The personal log is useful as data for self-reflexivity and data mini
 
 ## Monday, October 13, 2025 - Thursday, October 9, 2025 ##
 
+This legacy hoard arrived today:
+
+* 1 x monitoring device, 1 x Box of Lancing devices, 1 x portable bag, 1 x user manual, I box of 30 x ketone testing strips: AUD $43.66
+* 6 x box of 30 ketone strips: AUD $79.02
+
 [![Legacy device hoard — thumbnail](https://raw.githubusercontent.com/b9Joker108/b9_intermittent_fasting_intelligence_108/main/assets/images/legacy_device_hoard_accrual_13102025.jpg)](https://github.com/b9Joker108/b9_intermittent_fasting_intelligence_108/blob/main/assets/images/legacy_device_hoard_accrual_13102025.jpg)
 
 
