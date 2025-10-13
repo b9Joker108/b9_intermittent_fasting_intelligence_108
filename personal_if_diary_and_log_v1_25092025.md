@@ -9,7 +9,7 @@ This legacy hoard arrived today:
 * 1 x monitoring device, 1 x Box of Lancing devices, 1 x portable bag, 1 x user manual, 1 box of 30 x ketone testing strips: AUD $43.66
 * 6 x box of 30 ketone strips: AUD $79.02
 
-I cannot face the unboxing and learning curve today of initiating KT testing. That will start tomorrow or Wednesday at-the-latest. My determination and resolve on device was mediated by unit price of consumables: KT strips and disposable lancets. This whole captured marked and design for disposables is bleeding the consumer of resources without exception.
+I cannot face the unboxing and learning curve today of initiating KT testing. That will start tomorrow or Wednesday at-the-latest. My determination and resolve on device was mediated by unit price of consumables: KT strips and disposable lancets. This whole captured marked and corporate design for disposables is not due to surgical/medical grade hygeine (?) and sanitation, it is corporate bankrolling and bloodletting of consumer resources without exception.
 
 [![Legacy device hoard — thumbnail](https://raw.githubusercontent.com/b9Joker108/b9_intermittent_fasting_intelligence_108/main/assets/images/legacy_device_hoard_accrual_13102025.jpg)](https://github.com/b9Joker108/b9_intermittent_fasting_intelligence_108/blob/main/assets/images/legacy_device_hoard_accrual_13102025.jpg)
 
