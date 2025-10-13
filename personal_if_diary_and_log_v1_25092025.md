@@ -5,7 +5,75 @@ Rationale: The personal log is useful as data for self-reflexivity and data mini
 ## Monday, October 13, 2025 - Thursday, October 9, 2025 ##
 
  
+Dual image embeds in GFM using sanctioned syntax
 
+You’ll get reliable rendering only with GitHub’s approved Markdown image syntax and, when needed, the supported HTML picture element. Below are two embeds that conform to GitHub’s documented rules.
+
+---
+
+Thumbnail view (requires an actual small thumbnail file)
+
+Use the Markdown “image wrapped in a link” pattern. This is the only safe way to present a small preview that links to the full image. You must provide a pre-scaled thumbnail file in your repo.
+
+```markdown
+![Legacy device hoard — thumbnail](assets/images/legacydevicehoardaccrual_13102025.jpg)
+```
+
+- GitHub supports images in .md via the basic !alt syntax. For images stored in your repo, prefer relative paths. Width/height attributes are not supported in Markdown, so use a truly small thumbnail file. 
+
+---
+
+Full-resolution, device-responsive view (picture element)
+
+GitHub supports the HTML <picture> element, which lets you serve the same image in multiple resolutions and let the browser pick the best for the device. This is the most universal, future-proof way to handle “max res per device.”
+
+```html
+<picture>
+  <!-- High DPI or wide screens get the 2x asset -->
+  <source
+    srcset="assets/images/legacydevicehoardaccrual13102025@2x.jpg"
+    media="(min-width: 768px)">
+  <!-- Default (mobile/standard DPI) -->
+  <img
+    src="assets/images/legacydevicehoardaccrual13102025.jpg"
+    alt="Legacy device hoard on a workbench with vintage electronics visible">
+</picture>
+```
+
+- The picture element is explicitly supported in GitHub’s renderer. Provide multiple assets (e.g., base and @2x) so devices select the appropriate resolution. Keep descriptive alt text for accessibility. 
+
+---
+
+Absolute URL variants (cross-repo or external linking)
+
+If you need absolute URLs, use raw.githubusercontent.com for direct image content. For the thumbnail pattern:
+
+```markdown
+![Legacy device hoard — thumbnail](https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual_13102025.jpg)
+```
+
+For the picture element:
+
+```html
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025@2x.jpg"
+    media="(min-width: 768px)">
+  <img
+    src="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025.jpg"
+    alt="Legacy device hoard on a workbench with vintage electronics visible">
+</picture>
+```
+
+- Docs recommend relative paths for images inside your repo, but absolute links are fine when you need cross-repo or external embeds. The picture element remains supported with absolute URLs. 
+
+---
+
+Implementation notes
+
+- Create and commit these files: a small thumbnail (e.g., 200 px wide) and, for responsiveness, a 2× asset (e.g., 3000 px wide). Name them consistently (_thumb.jpg, @2x.jpg).   
+- Use alt text that describes the content meaningfully; this is part of GitHub’s basic image syntax guidance and supports digital inclusivity.   
+- Avoid HTML attributes like style/width on <img>—they aren’t part of the approved Markdown image syntax, and Markdown width control isn’t supported. Use real thumbnails and the picture element for sizing and device optimization.
 
 
 
