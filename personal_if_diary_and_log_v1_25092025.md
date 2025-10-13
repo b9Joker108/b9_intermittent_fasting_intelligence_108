@@ -384,6 +384,21 @@ For complex or important images, add a caption for extra context and screen read
 </figure>
 
 
+<img src="https://github.com/b9Joker108/b9intermittentfastingintelligence108/raw/main/assets/images/legacydevicehoardaccrual13102025.jpg" 
+     alt="Legacy device hoard accrual chart from October 13, 2025 showing device accumulation patterns"
+     width="120"
+     height="auto"
+     loading="lazy"
+     style="border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); max-width: 120px; height: auto;"
+     role="img"
+     aria-label="Legacy device hoard accrual chart from October 13, 2025 showing device accumulation patterns" />
+
+
+
+
+
+
+
 
 ## Wednesday, October 8, 2025 - Wednesday, October 1, 2025 ##
 
