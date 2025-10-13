@@ -31,7 +31,7 @@ GitHub supports the HTML <picture> element, which lets you serve the same image 
 <picture>
   <!-- High DPI or wide screens get the 2x asset -->
   <source
-    srcset="assets/images/legacydevicehoardaccrual13102025@2x.jpg"
+    srcset="https://github.com/b9Joker108/b9_intermittent_fasting_intelligence_108/blob/main/assets/images/legacy_device_hoard_accrual_13102025.jpg"
     media="(min-width: 768px)">
   <!-- Default (mobile/standard DPI) -->
   <img
@@ -93,14 +93,14 @@ Implementation notes
 ![Legacy device hoard — thumbnail](https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual_13102025.jpg)
 
 <picture>
-  <source
-    srcset="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025@2x.jpg"
+  <source   srcset="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025@2x.jpg"
     media="(min-width: 768px)">
-  <img
-    src="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025.jpg"
+  <img  src="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025.jpg"
     alt="Legacy device hoard on a workbench with vintage electronics visible">
 </picture>
 
+
+[![Legacy device hoard — thumbnail](https://raw.githubusercontent.com/b9Joker108/b9_intermittent_fasting_intelligence_108/main/assets/images/legacy_device_hoard_accrual_13102025.jpg)](https://github.com/b9Joker108/b9_intermittent_fasting_intelligence_108/blob/main/assets/images/legacy_device_hoard_accrual_13102025.jpg)
 
 ## Wednesday, October 8, 2025 - Wednesday, October 1, 2025 ##
 
