@@ -76,6 +76,31 @@ Implementation notes
 - Avoid HTML attributes like style/width on <img>—they aren’t part of the approved Markdown image syntax, and Markdown width control isn’t supported. Use real thumbnails and the picture element for sizing and device optimization.
 
 
+![Legacy device hoard — thumbnail](assets/images/legacydevicehoardaccrual_13102025.jpg)
+
+
+<picture>
+  <!-- High DPI or wide screens get the 2x asset -->
+  <source
+    srcset="assets/images/legacydevicehoardaccrual13102025@2x.jpg"
+    media="(min-width: 768px)">
+  <!-- Default (mobile/standard DPI) -->
+  <img
+    src="assets/images/legacydevicehoardaccrual13102025.jpg"
+    alt="Legacy device hoard on a workbench with vintage electronics visible">
+</picture>
+
+![Legacy device hoard — thumbnail](https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual_13102025.jpg)
+
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025@2x.jpg"
+    media="(min-width: 768px)">
+  <img
+    src="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025.jpg"
+    alt="Legacy device hoard on a workbench with vintage electronics visible">
+</picture>
+
 
 ## Wednesday, October 8, 2025 - Wednesday, October 1, 2025 ##
 
