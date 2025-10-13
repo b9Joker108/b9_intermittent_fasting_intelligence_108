@@ -16,7 +16,7 @@ Thumbnail view (requires an actual small thumbnail file)
 Use the Markdown “image wrapped in a link” pattern. This is the only safe way to present a small preview that links to the full image. You must provide a pre-scaled thumbnail file in your repo.
 
 ```markdown
-![Legacy device hoard — thumbnail](assets/images/legacydevicehoardaccrual_13102025.jpg)
+![Legacy device hoard — thumbnail](https://github.com/b9Joker108/b9_intermittent_fasting_intelligence_108/blob/main/assets/images/legacy_device_hoard_accrual_13102025.jpg)
 ```
 
 - GitHub supports images in .md via the basic !alt syntax. For images stored in your repo, prefer relative paths. Width/height attributes are not supported in Markdown, so use a truly small thumbnail file. 
