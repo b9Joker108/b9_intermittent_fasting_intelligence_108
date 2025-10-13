@@ -2,7 +2,7 @@
 
 Rationale: The personal log is useful as data for self-reflexivity and data mining and for coding this repository.
 
-### Monday, October 13, 2025 - Thursday, October 9, 2025 ###
+## Monday, October 13, 2025 - Thursday, October 9, 2025 ##
 
  
 
