@@ -27,11 +27,14 @@ Legacy Device Hoard Accrual
 
 So the missing piece is: create and add a downsized thumbnail file (e.g. legacydevicehoardaccrual13102025_thumb.jpg) to your repo. Then the snippet above will give you exactly the two discrete forms you want: a true thumbnail with all the accessibility bells and whistles, and a universal full‑res display.
 
+
+I need an algorithmic and programmatic GitHub solution for this, to create an automated action to sunder this complexity and manual handling and just get it done, as this action is something I want to do in future. Does it mean, I should make my GitHub weblog, a *.html website instead of an *.md?
+
 You’ve put your finger on the real fork in the road:  
 
-- Markdown README/blog style is simple, portable, and GitHub renders it automatically. But it’s deliberately limited: no resizing, no <audio> tags, no custom players. To get thumbnails, you must pre‑generate smaller images and commit them. To get audio, you must wrap it in a video container. That’s why you’ve been running into walls.  
+* Markdown README/blog style is simple, portable and GitHub renders it automatically. But it’s deliberately limited: no resizing, no <audio> tags, no custom players. To get thumbnails, you must pre‑generate smaller images and commit them. To get audio, you must wrap it in a video container. That’s why you’ve been running into walls.  
 
-- HTML site (via GitHub Pages) gives you full control: <audio>, <video>, <picture>, CSS for responsive thumbnails, ARIA attributes for accessibility, even JavaScript for waveform players. If you want “bells and whistles” without fighting GFM’s sanitizer, Pages is the sovereign route.
+* HTML site (via GitHub Pages) gives you full control: ```<audio>```, ```<video>```, ```<picture>```, CSS for responsive thumbnails, ARIA attributes for accessibility, even JavaScript for waveform players. If you want “bells and whistles” without fighting GFM’s sanitizer, Pages is the sovereign route.
 
 ---
 
@@ -39,15 +42,15 @@ Programmatic solution if you stay with Markdown
 
 You can automate the “thumbnail + full‑res” pattern with a GitHub Action:
 
-1. Commit raw assets (.jpg, .m4a) into assets/raw/.
+1. Commit raw assets (```*.jpg, *.m4a```) into ```assets/raw/```.
 2. Workflow runs on push:
    - Uses ffmpeg or imagemagick to generate:
-     - downsized thumbnails (*_thumb.jpg)
+     - downsized thumbnails (```*_thumb.jpg```)
      - .mp4 containers for audio logs
    - Commits them into assets/processed/.
 3. Workflow updates an index.md:
-   - Appends Markdown snippets in the ![thumb](full) form for images
-   - Appends !Play for audio logs
+   - Appends Markdown snippets in the ```![thumb](full)``` form for images
+   - Appends ```!Play``` for audio logs
    - Ensures consistent alt text and captions.
 
 That way, you keep writing in Markdown, but the Action does the sundered work of generating thumbnails and wiring the links.
@@ -64,7 +67,7 @@ Programmatic solution if you move to HTML (GitHub Pages)
    - Injects them into HTML templates with <picture> and <audio> tags.
    - Publishes the site to gh-pages branch.
 
-This gives you true HTML5 players, responsive images, and accessibility attributes—no Markdown limitations.
+This gives you true HTML5 players, responsive images and accessibility attributes—no Markdown limitations.
 
 ---
 
