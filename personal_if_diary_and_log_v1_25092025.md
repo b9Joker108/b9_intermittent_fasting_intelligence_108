@@ -4,6 +4,8 @@ Rationale: The personal log is useful as data for self-reflexivity and data mini
 
 ## Monday, October 13, 2025 - Thursday, October 9, 2025 ##
 
+I have been IF all different times from: 13H - 48H and with different eating/feasting windows; with OMAD of 20:4 being my standard go-to. But, I have found it difficult to feast in 4H mindfully and intentionally, even with pre-prepared bhoga and post-offered food, that is prashadam. 
+
 This legacy hoard arrived today:
 
 * 1 x monitoring device, 1 x Box of Lancing devices, 1 x portable bag, 1 x user manual, 1 box of 30 x ketone testing strips: AUD $43.66
