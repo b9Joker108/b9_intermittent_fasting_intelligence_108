@@ -80,6 +80,74 @@ Notes:
 </figure>
 
 
+
+```markdown
+
+Legacy Device Hoard Accrual – Dual Render
+
+Below is a thumb-and-full pairing that’s been verified on GitHub.com. It uses the raw.githubusercontent.com URLs (not the /blob/ HTML pages) and only attributes GitHub’s sanitizer will allow.
+
+---
+
+<!-- 1) 200 px Thumbnail  -->
+<figure>
+  <a href="https://github.com/b9Joker108/b9intermittentfastingintelligence108/blob/main/assets/images/legacydevicehoardaccrual13102025.jpg" 
+     title="Click to view full-res on GitHub">
+    <img
+      src="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025.jpg"
+      alt="Thumbnail of legacy device hoard: a workbench strewn with vintage electronics"
+      title="Legacy Device Hoard (Thumbnail, 200 px wide)"
+      width="200"
+    />
+  </a>
+  <figcaption>Thumbnail view (200 px wide)</figcaption>
+</figure>
+
+---
+
+<!-- 2) Full-resolution Responsive Display -->
+<figure>
+  <img
+    src="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025.jpg"
+    alt="Full-resolution image of legacy device hoard accruing on workbench"
+    title="Legacy Device Hoard (Full Resolution)"
+  />
+  <figcaption>Full-resolution view (scales to container)</figcaption>
+</figure>
+```
+
+Notes:
+- We’re linking the thumbnail’s <a> to the GitHub blob page so users can see metadata or download.  
+- Both <img> use the raw.githubusercontent.com endpoint, which serves the JPEG itself.  
+- Attributes used (src, alt, title, width) are all allowed by GitHub’s HTML sanitizer.  
+- No inline style or <audio>/<video> tags, so this will reliably render in any GFM README.
+
+<!-- 1) 200 px Thumbnail  -->
+<figure>
+  <a href="https://github.com/b9Joker108/b9intermittentfastingintelligence108/blob/main/assets/images/legacydevicehoardaccrual13102025.jpg" 
+     title="Click to view full-res on GitHub">
+    <img
+      src="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025.jpg"
+      alt="Thumbnail of legacy device hoard: a workbench strewn with vintage electronics"
+      title="Legacy Device Hoard (Thumbnail, 200 px wide)"
+      width="200"
+    />
+  </a>
+  <figcaption>Thumbnail view (200 px wide)</figcaption>
+</figure>
+
+
+<!-- 2) Full-resolution Responsive Display -->
+<figure>
+  <img
+    src="https://raw.githubusercontent.com/b9Joker108/b9intermittentfastingintelligence108/main/assets/images/legacydevicehoardaccrual13102025.jpg"
+    alt="Full-resolution image of legacy device hoard accruing on workbench"
+    title="Legacy Device Hoard (Full Resolution)"
+  />
+  <figcaption>Full-resolution view (scales to container)</figcaption>
+</figure>
+
+
 ## Wednesday, October 8, 2025 - Wednesday, October 1, 2025 ##
 
 I am truly surprised it has been so many days since I weblogged last in this repository. I note, I have prior weblog entry housekeeping and editing of prior entries that are mandated and yet to be realised. I will get to them when I do. As a priority, I have been integrating and embodying deeply triangulated fasting, nutrition and exercise theory-and-practice into my personal discipline and embodiment in a planned way, but also responsively and on-the-fly. My diet is profoundly triangulated and informed. With Time-Restricted-Eating (TRE) and Intermittent Fasting (IF), I have noticed and noted, that I pass so much less stool and urine for the same amount of food and drink intake as prior to TRE and IF. My digestive system is significantly slower and more decided in its digestion as well. I note people don't really need to know about my bowel movements and other somesuch, but I noted others state and say that their digestion was problematised and they responded and adapted to TRE and IF in different ways. So, the app needsmust foreground this experiential phenomenon. My digestion and digestive tract and system, my gut, has/have rapidly and markedly, become so much more subtle and responsive to inputs. I draw from this that my body is metabolizing more efficiently. The whole process agrees with me. Outdoor cross-country jogging and inclusions and indoor giriwork (kettlebells) and inclusions, both whilst in my fasting phase, are progressing well and daily. And yes, to stave off muscle loss whilst fasting, I have deeply triangulated research, discourse and my hard-won personal knowledge and lived experience in action. There are so many moving parts and so many levers and the processes and protocols change dynamically, that I appreciate the complexity is too much for many people to integrate usefully and practically into their lifestyle. So, the app must support a deep, progressive, principles-driven understanding of saliences and their context and rationale, particularly counterintuitives, and reinforce all of these mnemonically. In this complexity, a little knowledge is a dangerous thing. It is circa five (5) minutes to 9.00pm and I need to sleep in order to be up for 'Vedic Awaken' at 4.00am on the morrow.
