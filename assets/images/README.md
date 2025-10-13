@@ -1,0 +1,3 @@
+# Introduction to Images Directory and Images Register #
+
+...
