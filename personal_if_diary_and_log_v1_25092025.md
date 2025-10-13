@@ -4,7 +4,7 @@ Rationale: The personal log is useful as data for self-reflexivity and data mini
 
 ## Monday, October 13, 2025 - Thursday, October 9, 2025 ##
 
-I have been IF all different times from: 13H - 48H and with different eating/feasting windows; with OMAD of 20:4 being my standard go-to. But, I have found it difficult to feast in 4H mindfully and intentionally, even with pre-prepared bhoga and post-offered food, that is prashadam. 
+I have been IF all different times from: 13H - 48H and with different eating/feasting windows; with OMAD of 20:4 being my standard go-to. But, I have found it difficult to feast in 4H mindfully and intentionally, even with pre-prepared bhoga and post-offered food, that is prashadam. So, I float to different eating/feasting times through daylight hours with the exception of nighttime feasting of-rare-occurrence that is the exception-that-proves-the-rule.
 
 This legacy hoard arrived today:
 
