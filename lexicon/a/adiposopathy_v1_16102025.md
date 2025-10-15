@@ -117,3 +117,29 @@ Citations:
 
 
 
+please locate the most recent metastudy on lipogenesis and adipose tissue lipid storage
+
+The most recent meta-analytical and comprehensive review studies on lipogenesis and adipose tissue lipid storage include the following:
+
+1. A 2024 review titled "Revisiting the concepts of de novo lipogenesis to understand metabolic health and disease," which discusses the regulation and pathways of lipogenesis and lipid storage intricacies in adipose tissue, emphasizing metabolic health implications [2].
+
+2. A 2025 study on lysosomal lipolysis in adipose tissue highlights emerging mechanisms regulating lipid mobilization and storage, elucidating gene regulation, lipase activity, and adipocyte adaptations in fasting and nutrient states [6].
+
+3. A very recent June 2025 meta-review titled "Adipose tissue dysfunction disrupts metabolic homeostasis" comprehensively outlines molecular regulators of lipid homeostasis in adipose tissue, including PPARγ, SREBP1c, ATGL, and HSL, and their roles in coordinating lipogenesis, lipid storage, and fatty acid mobilization. It describes how dysfunction of these pathways contributes to metabolic disease [7].
+
+4. A 2025 meta-study focusing on weight loss and lipogenesis in metabolic-associated steatotic liver disease (MASLD) connects adipose lipogenesis and systemic metabolism, showing how reductions in lipogenesis relate to improved liver fat and metabolic health [3].
+
+These recent meta- and review articles provide cutting-edge integration of adipose tissue lipid storage processes and regulation, linking them mechanistically to human metabolic health and disease states, including obesity and fatty liver conditions. 
+
+If you want, I can retrieve more detailed insights or full text highlights from any of these sources.
+
+Citations:
+[1] Adipose tissue-derived PRXL2A suppresses hepatic ... https://pubmed.ncbi.nlm.nih.gov/40670400/
+[2] Review Revisiting the concepts of de novo lipogenesis to ... https://www.sciencedirect.com/science/article/abs/pii/S0899900724002661
+[3] Weight loss in MASLD restores the balance of liver fatty ... https://pmc.ncbi.nlm.nih.gov/articles/PMC12043097/
+[4] Gut microbiota mediates SREBP-1c-driven hepatic ... https://www.sciencedirect.com/science/article/pii/S2212877825000699
+[5] Lipid remodeling of adipose tissue in metabolic health and ... https://www.nature.com/articles/s12276-023-01071-4
+[6] Non-canonical lysosomal lipolysis drives mobilization of ... https://www.nature.com/articles/s41467-025-56613-3
+[7] Adipose tissue dysfunction disrupts metabolic homeostasis https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1592683/full
+
+
