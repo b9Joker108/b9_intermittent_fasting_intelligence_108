@@ -85,3 +85,35 @@ Citations:
 [9] Interaction between non-alcoholic fatty liver disease and ... https://www.nature.com/articles/s41598-024-74841-3
 [10] Metabolic dysfunction–associated steatotic liver disease https://en.wikipedia.org/wiki/Metabolic_dysfunction%E2%80%93associated_steatotic_liver_disease
 
+
+
+
+Are those studies watertight?
+
+The metabolic tracer studies providing evidence about fat storage origins are regarded as robust and sophisticated, but like all research methods, they are not beyond criticism and have clear limitations[1][3].  
+
+### Strengths
+- Tracer studies use stable or radioisotopes to track the fate of specific dietary fats or carbohydrates in real time, quantifying how much becomes stored versus oxidized[1][5].
+- The combination of arteriovenous difference measurements, blood flow monitoring, and isotope labeling has provided detailed, direct data on human adipose tissue metabolism, particularly regarding postprandial fatty acid trafficking[2][3].
+- Such studies have repeatedly confirmed that, under typical dietary conditions, nearly all stored fatty acids in human adipose tissue derive from direct dietary fat intake, with minimal contribution from carbohydrate conversion[2][3].
+
+### Limitations
+- These approaches are based on several key assumptions, such as equilibrium states, distribution volumes, and modelled fluxes, which may not perfectly capture dynamic or individual-specific variations[1][3].
+- Most studies are short-term and often use controlled, artificial feeding protocols; results may vary in real-world, chronic, or extreme nutritional states[1].
+- Indirect measurements may miss rare or transient metabolic fluxes, and it is difficult to distinguish tissue-specific contributions in whole-body sampling without complex compartment models[3][1].
+
+### Conclusion
+Overall, these studies form the gold standard for answers about human fat storage and metabolism, and their core findings have been highly reproducible and consistent. Nonetheless, they are not absolutely "watertight"—there is ongoing refinement in computational modeling and tissue sampling techniques to address subtle unanswered questions and to adapt findings to more diverse populations and nutrition states[3][1].
+
+Citations:
+[1] In-vivo metabolic studies of regional adipose tissue - PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC6739856/
+[2] Tracing the fate of dietary fatty acids: metabolic studies ... https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/tracing-the-fate-of-dietary-fatty-acids-metabolic-studies-of-postprandial-lipaemia-in-human-subjects/34A55281E03C01163C6B430B5360F8B6
+[3] A computational model of postprandial adipose tissue lipid ... https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007400
+[4] Adipose Tissue: Physiology to Metabolic Dysfunction https://www.ncbi.nlm.nih.gov/books/NBK555602/
+[5] Isotope tracing in health and disease https://www.sciencedirect.com/science/article/pii/S0958166922000738
+[6] Spatial isotope deep tracing deciphers inter-tissue ... https://www.nature.com/articles/s41467-025-63243-2
+[7] Standardized In Vitro Models of Human Adipose Tissue ... https://academic.oup.com/endo/article/164/12/bqad161/7379888
+[8] Patient-Oriented Research. Free fatty acid metabolism in ... https://www.sciencedirect.com/science/article/pii/S0022227520331503
+
+
+
