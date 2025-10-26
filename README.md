@@ -1,2 +1,4 @@
 # b9_intermittent_fasting_intelligence_108
 This repository is to capture and design an intelligent, learning, adaptive and self-corrective system and application for any given individual's intermittent fasting protocol(s), procedure(s), schedule(s), diary, testing, statistics, dynamic paramaters, knowledge base, web portal, etc., designed from first principles. By first principles, I intend: no assumptions, everything, that is every point is to be triangulated, everything policy driven, policy justified, strong governance for every determination and auditable signoff for every triangulated determination. So, the repository is governance driven, without exceptionalism.
+
+[![R U FCKNG SERIOUS - Boris Brejcha & Deniz Bul Original Mix](https://img.youtube.com/vi/NMs-DCbRQA0/hqdefault.jpg)](https://youtu.be/NMs-DCbRQA0)
