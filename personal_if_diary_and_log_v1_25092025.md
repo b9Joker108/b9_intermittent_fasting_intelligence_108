@@ -2,6 +2,105 @@
 
 Rationale: The personal log is useful as data for self-reflexivity and data mining and for coding this repository.
 
+## Sunday, October 26, 2025 - Friday, October 10, 2025 ##
+
+Intertextuality, teaching story and morality tale: 
+
+[![R U FCKNG SERIOUS - Boris Brejcha & Deniz Bul Original Mix](https://img.youtube.com/vi/NMs-DCbRQA0/hqdefault.jpg)](https://youtu.be/NMs-DCbRQA0)
+
+**Please do a literature review and survey of extant literature, for the attestations, contexts and spatiotemporality of the occurrence of the term: 'dehayatra/yatradeha' (Sanskrit).**
+
+The term **देहयात्रा / dehayātrā** (also occurring in reversed form *yatradeha*) is attested across several domains of Sanskrit thought—lexical, Purāṇic, Vedāntic, and Yogic—with shades of meaning that pivot between “bodily maintenance,” “sustenance,” and “the journey or departure of the body,” i.e., *death*. A literature‑based survey delineates how its semantics and contexts evolved.
+
+***
+
+### Lexical attestations
+
+Primary lexicons—**Trikāṇḍaśeṣa (3.3.355)**, **Medinīkoṣa**, and **Hemacandra’s Anekārthasaṃgraha (4.258)**—define *dehayātrā* as having two senses:  
+1. *Dehasya yātrā* — the “proceeding” or “continuance of the body,” i.e., sustenance or subsistence.  
+2. *Dehasya gamanam* — the “going forth of the body,” i.e., death [1].  
+
+Amarasiṃha, Halāyudha, and Hemacandra include both connotations, showing semantic duality already present in early lexicographic Sanskrit [1][2].
+
+***
+
+### Scriptural occurrences
+
+The **Bhāgavata‑Purāṇa (4.23.20)** explicitly employs *dehayātrā* in the sense of “supporting bodily life” or “livelihood,” identifying nourishment necessary for maintaining embodied existence [1]. Later Vedāntic texts such as the **Vedāntasāra** use *dehayātrā* philosophically to denote the continuity of bodily function until the exhaustion of *prārabdha‑karma* [1].
+
+No canonical use of *yatradeha* appears in lexicons, suggesting *dehayātrā* is the normative form; however, Tantric and poetic reversals of compound order (*yatradeha*) may appear in later esoteric or regional sources, though these remain lexically marginal.
+
+***
+
+### Philosophical and Yogic usages
+
+In **Vedānta**, *dehayātrā* designates the temporal maintenance of the organism (*śarīra‑dharma*) through food and karma, persisting until liberation (*jīvanmukti*). The same nuance appears in Yoga literature where “dehayātrā” refers to the physiological functioning sustained by *āhāra* (food) and *prāṇa* until the *ātman*’s final release, contrasting with *videhamukti* (“bodiless liberation”).
+
+Some Upaniṣadic and Smṛti commentarial traditions (drawing on texts like *Yogatattva Upaniṣad*) metaphorically align bodily existence with a journey (*yātrā*) undertaken by the Self through karmic causation—making *dehayātrā* a vivid expression for embodied samsaric continuity [3][4].
+
+***
+
+### Spatiotemporal distribution
+
+The compound’s earliest lexical attestations likely postdate the Vedic corpus and belong to the **Classical Sanskrit** period (ca. post‑Gupta, 6th–9th centuries CE), given its appearance in epic‑Puranic diction and classical lexica. Textual geography associates it mainly with mainstream Brahmanical scholastic Sanskrit (north and west India), extending into **Bhāgavata‑Purāṇic** and **Vedāntic** milieus rather than early Vedic or strictly Tantric Shaiva‑Siddhāntic sources [1][5][6].
+
+***
+
+### Semantic spectrum summary
+
+| Semantic Field | Sense of *dehayātrā* | Representative Texts / Sources |
+|-----------------|----------------------|--------------------------------|
+| Lexicographic | Support of the body; death | Trikāṇḍaśeṣa 3.3.355, Medinīkoṣa, Hemacandra 4.258 [1] |
+| Purāṇic | Sustenance / livelihood | Bhāgavatapurāṇa 4.23.20 [1] |
+| Vedāntic | Continuation of life until karma’s end | Vedāntasāra [1] |
+| Tantric / Yogic (metaphoric) | Embodied journey of the Self | Late Yoga and Upaniṣadic reflections [3][4] |
+| Lexical variant → *yatradeha* | Rare, hypothetical poetic inversion; uncanonical | — |
+
+***
+
+In sum, *dehayātrā* epitomizes a philosophically polyvalent lexical unit denoting both **continuity of corporeal existence** and **the body’s final departure**. Its attested range—from *bhāgavata* piety to Vedāntic exegesis—situates it firmly in the idiom of **classical post‑Vedic Sanskrit**, while any form *yatradeha* remains an extrapolated, marginal inversion without major canonical attestation [1][2].
+
+Citations:
+[1] Dehayatra, Deha-yatra, Dēhayātrā, Dehayātrā: 9 definitions https://www.wisdomlib.org/definition/dehayatra
+[2] death - Sanskrit Dictionary | Kosha.App (KST) https://kosha.sanskrit.today/word/en/death
+[3] Yogatattva Upanishad https://en.wikipedia.org/wiki/Yogatattva_Upanishad
+[4] Vedic Origins of Yoga: Shvetasvatara, the ... - Indiafacts.org https://indiafacts.org/vedic-origins-yoga/
+[5] Yatra, Yātrā: 28 definitions https://www.wisdomlib.org/definition/yatra
+[6] Yatra: Significance and symbolism https://www.wisdomlib.org/concept/yatra
+[7] Scope of Early Sanskrit Usage : A Wider Approach https://doi.library.ubc.ca/10.14288/1.0379841
+[8] Textual Multi-Religiosity: The Usage of Indian Religious Lexica and Symbols in Parsi Sanskrit https://www.tandfonline.com/doi/full/10.1080/02666030.2025.2572111
+[9] Secondary predicates and motion events: the rise of complex predicates in Vedic Sanskrit https://www.degruyter.com/document/doi/10.1515/jsall-2024-2006/html
+[10] Usage of the simile in Sanskrit Literature https://www.semanticscholar.org/paper/428d9b942776a5f9c4f76bf497c8dd90fa2c030b
+[11] Uses and awareness of e-resources among students of Sanskrit https://www.anantaajournal.com/archives/?year=2024&vol=10&issue=3&part=C&ArticleId=2384
+[12] The Renaissance of the Sanskrit Language: An Imperative for Modern Times https://www.nepjol.info/index.php/jbss/article/view/78758
+[13] Declaration of the Best: A Sanskrit-Uigur Commentary on the Agraprajñaptisūtra – Reedition of the Text TT VIII H https://akjournals.com/view/journals/062/77/3/article-p343.xml
+[14] The use of ās- ‘sit’ and vas- ‘dwell’ plus participle and gerund from Early Vedic to Epic Sanskrit https://www.degruyter.com/document/doi/10.1515/jsall-2024-2007/html
+[15] Vrātya and vrātīna in Sanskrit Grammatical Sources https://journals.akademicka.pl/cis/article/view/5830
+[16] A Pragmatic Analysis of Machine Translation Techniques for Preserving the Authenticity of the Sanskrit Language https://dl.acm.org/doi/10.1145/3610582
+[17] The Meaning of Jāmi, Māyu, and Devagavā https://zenodo.org/record/2450096/files/article.pdf
+[18] Sanskrit Drama Features https://www.ijfmr.com/papers/2023/1/3445.pdf
+[19] Sanskrit as a Spoken Language https://zenodo.org/record/1648699/files/article.pdf
+[20] A Study of some Onomatopœtic Deśī Words https://zenodo.org/record/1606441/files/article.pdf
+[21] Sanskrit Grammar for Beginners. By A. A. Macdonell. (London, 1901.) https://zenodo.org/record/1666218/files/article.pdf
+[22] Some Remarks on the Accusative with Infinitive https://zenodo.org/record/1588618/files/article.pdf
+[23] Hamm-(Gatau) https://zenodo.org/record/2464277/files/article.pdf
+[24] The Plays of Bhāsa https://zenodo.org/record/2408868/files/article.pdf
+[25] dehayātrāṃ: Sanskrit analysis and references https://www.wisdomlib.org/sanskrit/segments/dehay%C4%81tr%C4%81%E1%B9%83
+[26] Sarasaram v1.pdf https://www.sadagopan.org/ebook/pdf/Sarasaram%20v1.pdf
+[27] Science of the Absolute http://advaita-vedanta.co.uk/index.php/content/9-content/science-of-the-absolute
+[28] £1■•11■1111•11 https://www.sadagopan.org/ebook/pdf/Daya%20Satakam%20-%20MRS%20-%20Part%2010.pdf
+[29] Monier-Williams Sanskrit-English Dictionary --य https://sanskrit.inria.fr/MW/210.html
+[30] Understanding Tantra in detail - Radha name https://www.radha.name/news/general-news/understanding-tantra-in-detail
+[31] yatrādibhāge: Sanskrit analysis and references https://www.wisdomlib.org/sanskrit/segments/yatr%C4%81dibh%C4%81ge
+[32] Yatra https://en.wikipedia.org/wiki/Yatra
+[33] Tantra https://en.wikipedia.org/wiki/Tantra
+[34] Sanskrit - Dictionary https://www.learnsanskrit.cc/translate?search=dAyati&dir=se
+[35] yatrārthavādāḥ: Sanskrit analysis and references https://www.wisdomlib.org/sanskrit/segments/yatr%C4%81rthav%C4%81d%C4%81%E1%B8%A5
+[36] Demystifying Tantra śāstras - hinduism and sanatan dharma https://pparihar.com/2016/09/05/demystifying-tantra-sastras/
+[37] timeline of important yoga texts￼ https://www.keenonyoga.com/timeline-of-important-yoga-texts%EF%BF%BC/
+[38] Bhagavad Gita Prologue https://thraithashakam.org/publications/english/pdf/Thraitha-Theorom-Bhagavadgeetha.pdf
+
+
 ## Monday, October 13, 2025 - Thursday, October 9, 2025 ##
 
 I have been IF all different times from: 13H - 48H in length and with different eating/feasting windows; with OMAD of 20:4 being my standard go-to. But, I have found it difficult to feast in 4H mindfully and intentionally, even with pre-prepared 'bhoga' (Sanskrit: 'enjoyment'; used in the sense and to denote 'pre-offered foodstuff') and post-offered food, that is 'prashadam' (Sanskrit: 'grace', 'mercy', standard usage for anything offered to one's tutelary deity: ishta-devata/yidam). I have found no fast length within this range to be problematic whatsoever. So, given the 4H feasting blow-out, I float to different eating/feasting times through daylight hours with the exception of nighttime feasting of-rare-occurrence that is the exception-that-proves-the-rule. I have great difficulty in OMAD, eating my deeply triangulated alloted daily nutrition in any TRE window whatsover. I just can't eat that much food. I have had no refined sugar of any kind for over twelve (12) months bar mote exceptions. The same, pretty much for all wheat and all flours in general, with the very rare exception. All food, on great balance, has been prepared by me from natural whole base ingredients. Given this, I still have fat on my liver and visceral adiposity, but no liver damage what-so-ever. Now, I have brought TRE, IF and different kinds of exercise priming and capacity building into play and am not new to a number of training modalities and have not yet experienced any significant change in body composition. I have a little more bodywork, bodymind and physiological and biomechanical priming and capacity building, before I start pushing-the-envelope with triangulated and learnt precision. I must say, it has taken me circa six (6) months of concerted discipline and endeavour to deeply re-hydrate my system and this is still progressing. I seem to have some sort of metabolic derangement with the metabolisation of water beyond just natural aging. My hydration is profoundly progressively better within this last past six (6) plus months, but still not optimal. I am not sure how best to proceed, but continue as I have so far done. I do wonder if water fasting, that is total fasting, abstaining from all food and drink; whether this would 're-set' my water metabolisation metabolic pathways, but am erring on the side of caution as I have achieved significant redress, just not profound success in deep cellular hydration. BTW, all my family found me curious if not odd as from early childhood and all throughout my life, I have been vehemently averse to white bread and white rice, I profoundly dislike them, \*icky-yucky\* and never much liked white flour full stop, but did eat the white flour, as for the 1970s, that was too bloody odd and unusual. Breadwise, I love a dark rye and particularly pumpernickel and many, many forms of nutritional rice and non-standard grains. But, for the last twelve (12) months have obstained from all grains bar the rare occasion and then, in very small portions. I have deprecated starchy vegetables as well, but do have sweet potatoes of various kinds on occasion as well as pumpkins. It pains me to abstain from corn, particularly fresh sweetcorn and bananas.
