@@ -14,7 +14,7 @@ The term **देहयात्रा / dehayātrā** (also occurring in revers
 
 ***
 
-### Lexical attestations
+**Lexical attestations**
 
 Primary lexicons—**Trikāṇḍaśeṣa (3.3.355)**, **Medinīkoṣa**, and **Hemacandra’s Anekārthasaṃgraha (4.258)**—define *dehayātrā* as having two senses:  
 1. *Dehasya yātrā* — the “proceeding” or “continuance of the body,” i.e., sustenance or subsistence.  
@@ -24,7 +24,7 @@ Amarasiṃha, Halāyudha, and Hemacandra include both connotations, showing sema
 
 ***
 
-### Scriptural occurrences
+**Scriptural occurrences**
 
 The **Bhāgavata‑Purāṇa (4.23.20)** explicitly employs *dehayātrā* in the sense of “supporting bodily life” or “livelihood,” identifying nourishment necessary for maintaining embodied existence [1]. Later Vedāntic texts such as the **Vedāntasāra** use *dehayātrā* philosophically to denote the continuity of bodily function until the exhaustion of *prārabdha‑karma* [1].
 
@@ -32,7 +32,7 @@ No canonical use of *yatradeha* appears in lexicons, suggesting *dehayātrā* is
 
 ***
 
-### Philosophical and Yogic usages
+**Philosophical and Yogic usages**
 
 In **Vedānta**, *dehayātrā* designates the temporal maintenance of the organism (*śarīra‑dharma*) through food and karma, persisting until liberation (*jīvanmukti*). The same nuance appears in Yoga literature where “dehayātrā” refers to the physiological functioning sustained by *āhāra* (food) and *prāṇa* until the *ātman*’s final release, contrasting with *videhamukti* (“bodiless liberation”).
 
@@ -40,13 +40,13 @@ Some Upaniṣadic and Smṛti commentarial traditions (drawing on texts like *Yo
 
 ***
 
-### Spatiotemporal distribution
+**Spatiotemporal distribution**
 
 The compound’s earliest lexical attestations likely postdate the Vedic corpus and belong to the **Classical Sanskrit** period (ca. post‑Gupta, 6th–9th centuries CE), given its appearance in epic‑Puranic diction and classical lexica. Textual geography associates it mainly with mainstream Brahmanical scholastic Sanskrit (north and west India), extending into **Bhāgavata‑Purāṇic** and **Vedāntic** milieus rather than early Vedic or strictly Tantric Shaiva‑Siddhāntic sources [1][5][6].
 
 ***
 
-### Semantic spectrum summary
+**Semantic spectrum summary**
 
 | Semantic Field | Sense of *dehayātrā* | Representative Texts / Sources |
 |-----------------|----------------------|--------------------------------|
