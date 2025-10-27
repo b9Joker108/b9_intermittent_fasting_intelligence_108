@@ -4,7 +4,7 @@ Rationale: The personal log is useful as data for self-reflexivity and data mini
 
 ## Monday, October 27, 2025 ##
 
-I woke up refreshed just before Vedic Awaken but didn't foolishly didn't get up. I was so beautifully comfortable, so went in and out of sleep in waves for quite some time in various states of contemplative Swapna Darshan. I am still in bed and it is late morning and I am the very model of a loungey layabout, but I am being gentle and mollycoddling for I am recovering, fasting and oh so very pleased to report that: "I am hungry!".
+Surprisingly, I woke up refreshed just before Vedic Awaken but, foolishly, didn't get up. I was so beautifully comfortable, so went in and out of velvet sleep in undulating and cascading waves for quite some time in various states of contemplative Swapna Darshan. This sadhana and discipline is of inestimable value. I am still in bed and it is late morning and I am the very model of a loungey lay-a-bout, but I am being gentle and mollycoddling for I am recovering, fasting and oh so very pleased to report that: "I am hungry!".
 
 ## Sunday, October 26, 2025 - Friday, October 10, 2025 ##
 
