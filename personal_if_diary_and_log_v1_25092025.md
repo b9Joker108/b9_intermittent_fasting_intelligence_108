@@ -2,7 +2,7 @@
 
 Rationale: The personal log is useful as data for self-reflexivity and data mining and for coding this repository.
 
-## Tuesday, November 4, 2025 ~ 'Immeasurable Indeterminate Unknowables ##
+## Tuesday, November 4, 2025 ~ 'Immeasurable Indeterminate Unknowables' ##
 
 Deixis: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/keynote/introduction_v1_02112025.md
 
