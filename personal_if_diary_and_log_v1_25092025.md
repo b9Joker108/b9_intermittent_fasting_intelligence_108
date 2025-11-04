@@ -6,7 +6,7 @@ Rationale: The personal log is useful as data for self-reflexivity and data mini
 
 Deixis: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/keynote/introduction_v1_02112025.md
 
-OMAD progressing well. Exercise progressing well. Every few days I break with a day that I protein-pace throughout day. I still haven't read manual for glucose and ketone monitor, nor started a testing regimen. It is cued for action, but vying for attention. I have a bounty of projects in play and they happen as they do. I am not currently strongly structured in what gets done. But, every day I progress actionables, sometimes by spontaneous unplanned action, sometimes by express whim and only when mandated, under sufferance.
+OMAD progressing well. Exercise progressing well. Every few days I break with a day that I protein-pace throughout day. I frame a two day fast wirh carnivore bump-in and bump-out. I favour plant-based but alone, it doesn't suit my phenotype. I still haven't read manual for glucose and ketone monitor, nor started a testing regimen. It is cued for action, but vying for attention. I have a bounty of projects in play and they happen as they do. I am not currently strongly structured in what gets done. But, every day I progress actionables, sometimes by spontaneous unplanned action, sometimes by express whim and only when mandated, under sufferance.
 
 ## Monday, October 27, 2025 ##
 
