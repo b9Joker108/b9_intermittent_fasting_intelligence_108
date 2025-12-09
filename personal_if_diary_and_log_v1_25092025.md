@@ -2,6 +2,10 @@
 
 Rationale: The personal log is useful as data for self-reflexivity and data mining and for coding this repository.
 
+## Wednesday, December 10, 2025 ##
+
+As of today, I have lost 10kg. The coding of this repository, will be finessed in due course. As I am taking political asylum from Australia with Sweden, in circa two (2) weeks, this repository is on hiatus except for this diary. I really intend to rework this repository, in future, for the Indian community of great Mother India and the Indic diaspora, as they have a particular endemic crisis, that I have the skillset to address.
+
 ## Tuesday, November 4, 2025 ~ 'Immeasurable Indeterminate Unknowables' ##
 
 Deixis: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/keynote/introduction_v1_02112025.md
